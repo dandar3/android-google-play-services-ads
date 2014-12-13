@@ -7,6 +7,9 @@ Eclipse library project based on:<br/>
 Requires (to compile):<br/>
 `Android 2.3 (API 10) SDK Platform`
 
+Requires library:<br/>
+[dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/)
+
 Subversion checkout URL:<br/>
 https://github.com/dandar3/android-google-play-services-ads/tags/6.5.87
 
