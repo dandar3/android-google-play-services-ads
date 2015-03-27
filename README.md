@@ -13,7 +13,7 @@ Requires library:<br/>
 Subversion checkout URL:<br/>
 https://github.com/dandar3/android-google-play-services-ads/tags/7.0.0
 
-AdMob Release Notes:<br/>
+Release Notes:<br/>
 http://developers.google.com/mobile-ads-sdk/docs/admob/android/rel-notes<br/>
 http://developer.android.com/google/play-services/index.html#newfeatures<br/>
 http://android-developers.blogspot.ie/2015/03/google-play-services-70-places-everyone.html<br/>
