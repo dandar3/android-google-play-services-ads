@@ -15,8 +15,21 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.google.android.gms.ads"
-          android:versionCode="730"
-          android:versionName="7.3.0">
+          android:versionCode="750"
+          android:versionName="7.5.0">
     <uses-sdk android:minSdkVersion="10"/>
-    <application />
+
+    <!-- Include required permissions for Google Mobile Ads to run-->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application>
+        <!--Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme"/>
+    </application>
 </manifest>
