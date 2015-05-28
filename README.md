@@ -16,4 +16,4 @@ https://github.com/dandar3/android-google-play-services-ads/tags/7.5.0
 Release Notes:<br/>
 * https://developers.google.com/mobile-ads-sdk/docs/admob/android/rel-notes<br/>
 * https://developers.google.com/android/guides/releases<br/>
-* https://http://android-developers.blogspot.ie/2015/05/a-closer-look-at-google-play-services-75.html<br/>
+* https://android-developers.blogspot.ie/2015/05/a-closer-look-at-google-play-services-75.html<br/>
