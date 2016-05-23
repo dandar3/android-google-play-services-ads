@@ -13,24 +13,10 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.google.android.gms.ads"
-          android:versionCode="900"
-          android:versionName="9.0.0">
-
-    <!-- Include required permissions for Google Mobile Ads to run-->
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.gms.ads.impl"
+    android:versionCode="900"
+    android:versionName="9.0.0">
     <uses-sdk android:minSdkVersion="10"/>
-
-    <application>
-        <!--Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-        <activity
-            android:name="com.google.android.gms.ads.AdActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-            android:theme="@android:style/Theme.Translucent" />
-        <activity android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
-            android:theme="@style/Theme.IAPTheme"/>
-    </application>
 </manifest>
