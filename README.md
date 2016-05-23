@@ -5,9 +5,9 @@ Eclipse library project based on:<br/>
 
 **Requires:**<br/>
 - `Android 6.0 (API 23) SDK Platform`
+- [dandar3/android-google-play-services-ads-lite](https://github.com/dandar3/android-google-play-services-ads-lite/)
 - [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/)
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/)
-- [dandar3/android-google-play-services-ads-lite](https://github.com/dandar3/android-google-play-services-ads-lite/)
 
 **References:**<br/>
 - https://developers.google.com/mobile-ads-sdk/rel-notes#android
