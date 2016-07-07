@@ -16,7 +16,7 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.gms.ads.impl"
-    android:versionCode="902"
-    android:versionName="9.0.2">
+          android:versionCode="920"
+          android:versionName="9.2.0">
     <uses-sdk android:minSdkVersion="9"/>
 </manifest>
