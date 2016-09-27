@@ -20,4 +20,3 @@ Eclipse library project based on:<br/>
   https://raw.githubusercontent.com/dandar3/android-google-play-services-ads/9.6.0/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
   https://github.com/dandar3/android-google-play-services-ads/tags/9.6.0
-- https://github.com/dandar3/android-google-play-services-ads/tags/9.6.0
