@@ -5,16 +5,19 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 2.3.1 (API 9) SDK Platform`
-- [dandar3/android-google-play-services-ads-lite](https://github.com/dandar3/android-google-play-services-ads-lite/)
-- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/)
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/)
-- [dandar3/android-google-play-services-clearcut](https://github.com/dandar3/android-google-play-services-clearcut/)
-- [dandar3/android-google-play-services-gass](https://github.com/dandar3/android-google-play-services-gass/)
+- [dandar3/android-google-play-services-ads-lite](https://github.com/dandar3/android-google-play-services-ads-lite/tags/9.6.0)
+- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tags/9.6.0)
+- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tags/9.6.0)
+- [dandar3/android-google-play-services-clearcut](https://github.com/dandar3/android-google-play-services-clearcut/tags/9.6.0)
+- [dandar3/android-google-play-services-gass](https://github.com/dandar3/android-google-play-services-gass/tags/9.6.0)
 
 **References:**
 - https://developers.google.com/android/guides/releases#september_21_-_v96
 - https://developers.google.com/mobile-ads-sdk/rel-notes#android
-- https://firebase.google.com/docs/admob/android/lite-sdk
 
 **SVN checkout:**
+- _File > Import... > Team > Team Project Set > URL:_<br/>
+  https://raw.githubusercontent.com/dandar3/android-google-play-services-ads/9.6.0/.projectset
+- _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
+  https://github.com/dandar3/android-google-play-services-ads/tags/9.6.0
 - https://github.com/dandar3/android-google-play-services-ads/tags/9.6.0
