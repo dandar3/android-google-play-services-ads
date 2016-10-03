@@ -12,7 +12,7 @@ Eclipse library project based on:<br/>
 - [dandar3/android-google-play-services-gass](https://github.com/dandar3/android-google-play-services-gass/tags/9.6.1)
 
 **References:**
-- https://developers.google.com/android/guides/releases#september_21_-_v96
+- https://developers.google.com/android/guides/releases#september_2016_-_v96
 - https://developers.google.com/mobile-ads-sdk/rel-notes#android
 
 **SVN checkout:**
