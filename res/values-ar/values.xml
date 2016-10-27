@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ar/strings.xml -->
+<eat-comment/>
+<string name="accept" msgid="5835639618285370804">"قبول"</string>
+<string name="create_calendar_message" msgid="6155048007205742679">"هل تريد السماح للإعلان بإنشاء حدث تقويم؟"</string>
+<string name="create_calendar_title" msgid="7967007864778154790">"إنشاء حدث تقويم"</string>
+<string name="debug_menu_ad_information" msgid="4722375419392727435">"معلومات عن الإعلان"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"معاينة تصميمات الإعلانات"</string>
+<string name="debug_menu_title" msgid="2039274714455389140">"تحديد وضع تصحيح الأخطاء"</string>
+<string name="debug_menu_troubleshooting" msgid="1173358804935285568">"تحرّي الخلل وإصلاحه"</string>
+<string name="decline" msgid="6099173376375995052">"رفض"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟"</string>
+<string name="store_picture_title" msgid="4180630057627064606">"حفظ الصورة"</string>
+</resources>
