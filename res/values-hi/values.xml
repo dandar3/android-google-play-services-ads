@@ -10,6 +10,6 @@
 <string name="debug_menu_title" msgid="2039274714455389140">"कोई डीबग मोड चुनें"</string>
 <string name="debug_menu_troubleshooting" msgid="1173358804935285568">"समस्या निवारण करना"</string>
 <string name="decline" msgid="6099173376375995052">"अस्वीकार करें"</string>
-<string name="store_picture_message" msgid="8020323581538738027">"विज्ञापन को चित्र को चित्र गैलरी में सहेजने की अनुमति दें?"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"विज्ञापन को चित्र गैलरी में चित्र सहेजने की अनुमति दें?"</string>
 <string name="store_picture_title" msgid="4180630057627064606">"चित्र सहेजें"</string>
 </resources>

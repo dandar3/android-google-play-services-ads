@@ -9,7 +9,7 @@
 <string name="debug_menu_creative_preview" msgid="1605938743055376690">"Voorskou van advertensiemateriaal"</string>
 <string name="debug_menu_title" msgid="2039274714455389140">"Kies \'n ontfoutmodus"</string>
 <string name="debug_menu_troubleshooting" msgid="1173358804935285568">"Foutsporing"</string>
-<string name="decline" msgid="6099173376375995052">"Weier"</string>
-<string name="store_picture_message" msgid="8020323581538738027">"Laat advertensie toe om prent in Prentgalery te stoor?"</string>
+<string name="decline" msgid="6099173376375995052">"Wys af"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"Laat advertensie toe om prent in prentegalery te stoor?"</string>
 <string name="store_picture_title" msgid="4180630057627064606">"Stoor prent"</string>
 </resources>

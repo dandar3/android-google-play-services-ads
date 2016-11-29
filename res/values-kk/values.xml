@@ -6,7 +6,7 @@
 <string name="create_calendar_message" msgid="6155048007205742679">"Жарнамаға күнтізбе оқиғасын жасауға рұқсат берілсін бе?"</string>
 <string name="create_calendar_title" msgid="7967007864778154790">"Күнтізбе оқиғасын жасау"</string>
 <string name="debug_menu_ad_information" msgid="4722375419392727435">"Жарнама ақпараты"</string>
-<string name="debug_menu_creative_preview" msgid="1605938743055376690">"Жарнаманы алдын ала қарау"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"Creative Preview"</string>
 <string name="debug_menu_title" msgid="2039274714455389140">"Түзету режимін таңдаңыз"</string>
 <string name="debug_menu_troubleshooting" msgid="1173358804935285568">"Ақауларды жою"</string>
 <string name="decline" msgid="6099173376375995052">"Қабылдамау"</string>
