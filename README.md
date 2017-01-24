@@ -5,11 +5,11 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
-- [dandar3/android-google-play-services-ads-lite](https://github.com/dandar3/android-google-play-services-ads-lite/tags/10.0.0)
-- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tags/10.0.0)
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tags/10.0.0)
-- [dandar3/android-google-play-services-clearcut](https://github.com/dandar3/android-google-play-services-clearcut/tags/10.0.0)
-- [dandar3/android-google-play-services-gass](https://github.com/dandar3/android-google-play-services-gass/tags/10.0.0)
+- [dandar3/android-google-play-services-ads-lite](https://github.com/dandar3/android-google-play-services-ads-lite/tree/10.0.0)
+- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/10.0.0)
+- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/10.0.0)
+- [dandar3/android-google-play-services-clearcut](https://github.com/dandar3/android-google-play-services-clearcut/tree/10.0.0)
+- [dandar3/android-google-play-services-gass](https://github.com/dandar3/android-google-play-services-gass/tree/10.0.0)
 
 **References:**
 - https://firebase.google.com/docs/admob/android/quick-start
