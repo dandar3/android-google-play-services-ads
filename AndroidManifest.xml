@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.ads.impl"
-    android:versionCode="1001"
-    android:versionName="10.0.1">
-    <uses-sdk android:minSdkVersion="9"/>
+    android:versionCode="1020"
+    android:versionName="10.2.0">
+    <uses-sdk android:minSdkVersion="14"/>
 </manifest>
