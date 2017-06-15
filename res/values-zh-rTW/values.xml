@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-zh-rTW/strings.xml -->
+<eat-comment/>
+<string name="accept" msgid="5835639618285370804">"接受"</string>
+<string name="create_calendar_message" msgid="6155048007205742679">"要允許廣告建立日曆活動嗎？"</string>
+<string name="create_calendar_title" msgid="7967007864778154790">"建立日曆活動"</string>
+<string name="debug_menu_ad_information" msgid="4722375419392727435">"廣告資訊"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"廣告素材預覽"</string>
+<string name="debug_menu_title" msgid="2039274714455389140">"選取偵錯模式"</string>
+<string name="debug_menu_troubleshooting" msgid="1173358804935285568">"疑難排解"</string>
+<string name="decline" msgid="6099173376375995052">"拒絕"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"要允許廣告將圖片儲存在「相片庫」中嗎？"</string>
+<string name="store_picture_title" msgid="4180630057627064606">"儲存圖片"</string>
+</resources>

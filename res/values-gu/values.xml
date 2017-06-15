@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-gu/strings.xml -->
+<eat-comment/>
+<string name="accept" msgid="5835639618285370804">"સ્વીકારો"</string>
+<string name="create_calendar_message" msgid="6155048007205742679">"જાહેરાતને કૅલેન્ડર ઇવેન્ટ બનાવવાની મંજૂરી આપીએ?"</string>
+<string name="create_calendar_title" msgid="7967007864778154790">"કૅલેન્ડર ઇવેન્ટ બનાવો"</string>
+<string name="debug_menu_ad_information" msgid="4722375419392727435">"જાહેરાત માહિતી"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"સર્જનાત્મક પૂર્વાવલોકન"</string>
+<string name="debug_menu_title" msgid="2039274714455389140">"ડીબગ મોડ પસંદ કરો"</string>
+<string name="debug_menu_troubleshooting" msgid="1173358804935285568">"સમસ્યા નિવારણ"</string>
+<string name="decline" msgid="6099173376375995052">"નકારો"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"જાહેરાતને ચિત્ર ગૅલેરી છબીઓ સંગ્રહિત કરવાની મંજૂરી આપીએ?"</string>
+<string name="store_picture_title" msgid="4180630057627064606">"છબી સાચવો"</string>
+</resources>

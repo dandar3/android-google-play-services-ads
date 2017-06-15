@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-si/strings.xml -->
+<eat-comment/>
+<string name="accept" msgid="5835639618285370804">"පිළිගන්න"</string>
+<string name="create_calendar_message" msgid="6155048007205742679">"වෙළඳ දැන්වීමට දින දර්ශන සිදුවීමක් සෑදීමට ඉඩ දෙන්නද?"</string>
+<string name="create_calendar_title" msgid="7967007864778154790">"දින දර්ශන සිදුවීම සාදන්න"</string>
+<string name="debug_menu_ad_information" msgid="4722375419392727435">"වෙළඳ දැන්වීම් තොරතුරු"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"නිර්මාණශීලී පෙරදසුන"</string>
+<string name="debug_menu_title" msgid="2039274714455389140">"දෝෂහරණ ප්‍රකාරයක් තෝරන්න"</string>
+<string name="debug_menu_troubleshooting" msgid="1173358804935285568">"දෝෂාවේක්ෂය"</string>
+<string name="decline" msgid="6099173376375995052">"ප්‍රතික්ෂේප කරන්න"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"වෙළඳ දැන්වීමට පින්තූර ගැලරිය තුළ රූපය ගබඩා කිරීමට ඉඩ දෙන්නද?"</string>
+<string name="store_picture_title" msgid="4180630057627064606">"රූපය සුරකින්න"</string>
+</resources>

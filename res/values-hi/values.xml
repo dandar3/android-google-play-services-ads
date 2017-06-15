@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-hi/strings.xml -->
+<eat-comment/>
+<string name="accept" msgid="5835639618285370804">"स्वीकार करें"</string>
+<string name="create_calendar_message" msgid="6155048007205742679">"विज्ञापन को कैलेंडर इवेंट बनाने की अनुमति दें?"</string>
+<string name="create_calendar_title" msgid="7967007864778154790">"कैलेंडर इवेंट बनाएं"</string>
+<string name="debug_menu_ad_information" msgid="4722375419392727435">"विज्ञापन की जानकारी"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"क्रिएटिव पूर्वावलोकन"</string>
+<string name="debug_menu_title" msgid="2039274714455389140">"कोई डीबग मोड चुनें"</string>
+<string name="debug_menu_troubleshooting" msgid="1173358804935285568">"समस्या निवारण करना"</string>
+<string name="decline" msgid="6099173376375995052">"अस्वीकार करें"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"विज्ञापन को चित्र गैलरी में चित्र सहेजने की अनुमति दें?"</string>
+<string name="store_picture_title" msgid="4180630057627064606">"चित्र सहेजें"</string>
+</resources>

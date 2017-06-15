@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ja/strings.xml -->
+<eat-comment/>
+<string name="accept" msgid="5835639618285370804">"同意する"</string>
+<string name="create_calendar_message" msgid="6155048007205742679">"広告がカレンダーの予定を作成することを許可しますか？"</string>
+<string name="create_calendar_title" msgid="7967007864778154790">"カレンダーの予定の作成"</string>
+<string name="debug_menu_ad_information" msgid="4722375419392727435">"広告の情報"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"クリエイティブのプレビュー"</string>
+<string name="debug_menu_title" msgid="2039274714455389140">"デバッグモードの選択"</string>
+<string name="debug_menu_troubleshooting" msgid="1173358804935285568">"困ったときに"</string>
+<string name="decline" msgid="6099173376375995052">"同意しない"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"広告が画像ギャラリーに画像を保存することを許可しますか？"</string>
+<string name="store_picture_title" msgid="4180630057627064606">"画像の保存"</string>
+</resources>
