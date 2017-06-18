@@ -10,5 +10,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-base"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-clearcut"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-gass"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-safetynet"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
