@@ -14,7 +14,7 @@ Eclipse library project based on:<br/>
 
 **References:**
 - https://firebase.google.com/docs/admob/android/quick-start
-- https://developers.google.com/android/guides/releases#may_2017_-_verson_1026
+- https://developers.google.com/android/guides/releases#june_2017_-_version_110
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
