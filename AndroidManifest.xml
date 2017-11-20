@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" package="com.google.android.gms.ads.impl"
-    android:versionCode="1120"
-    android:versionName="11.2.0">
+    android:versionCode="1140"
+    android:versionName="11.4.0">
     <uses-sdk android:minSdkVersion="14" tools:overrideLibrary="android.support.customtabs"/>
 </manifest>
