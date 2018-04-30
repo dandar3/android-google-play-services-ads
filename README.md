@@ -13,7 +13,7 @@ https://maven.google.com/com/google/android/gms/play-services-ads/15.0.0/play-se
 
 **References:**
 - https://firebase.google.com/docs/admob/android/quick-start
-- https://developers.google.com/android/guides/releases#march_28_2018_-_version_1201
+- https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
