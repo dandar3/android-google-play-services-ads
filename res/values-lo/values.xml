@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding='utf-8' standalone='no'?>
 <resources>
-<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/dev/client/admob-impl/res/values-lo/strings.xml -->
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-lo/strings.xml -->
 <eat-comment/>
 <string name="s1" msgid="368094699078615544">"ບັນທຶກຮູບພາບ"</string>
 <string name="s2" msgid="4550830452390689489">"ອະນຸຍາດໃຫ້ໂຄສະນາບັນທຶກຮູບພາບໃສ່ຫ້ອງສະໝຸດພາບໄດ້ບໍ່?"</string>

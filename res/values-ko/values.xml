@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding='utf-8' standalone='no'?>
 <resources>
-<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/dev/client/admob-impl/res/values-ko/strings.xml -->
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ko/strings.xml -->
 <eat-comment/>
 <string name="s1" msgid="368094699078615544">"이미지 저장"</string>
 <string name="s2" msgid="4550830452390689489">"광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?"</string>

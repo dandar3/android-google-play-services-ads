@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding='utf-8' standalone='no'?>
 <resources>
-<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/dev/client/admob-impl/res/values-ne/strings.xml -->
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ne/strings.xml -->
 <eat-comment/>
 <string name="s1" msgid="368094699078615544">"छविलाई सुरक्षित गर्नुहोस्"</string>
 <string name="s2" msgid="4550830452390689489">"विज्ञापनलाई तस्बिरको ग्यालरीमा छवि भण्डारण गर्न अनुमति दिने हो?"</string>
