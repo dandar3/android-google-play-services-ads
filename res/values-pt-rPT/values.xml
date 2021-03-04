@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-pt-rPT/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"Toque para abrir o anúncio."</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"Veja o anúncio que guardou quando estava offline"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Receberá uma notificação com o link quando voltar a estar online."</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"Não"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"Receberá uma notificação com um link para o site do anunciante."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"Abra o anúncio quando voltar a estar online"</string>
 <string name="s1" msgid="368094699078615544">"Guardar imagem"</string>
 <string name="s2" msgid="4550830452390689489">"Permitir ao anúncio armazenar uma imagem na galeria de imagens?"</string>
 <string name="s3" msgid="2435407834265420668">"Aceitar"</string>

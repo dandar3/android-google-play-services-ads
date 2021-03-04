@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-te/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"యాడ్‌ను తెరవడానికి ట్యాప్ చేయండి"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"మీరు ఆఫ్‌లైన్‌లో ఉన్నప్పుడు కూడా, సేవ్ చేసిన యాడ్‌ను చూడండి"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"సరే"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"మీరు తిరిగి ఆన్‌లైన్‌కు వచ్చినప్పుడు, లింక్ కలిగిన నోటిఫికేషన్ మీకు అందుతుంది"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"వద్దు"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"అడ్వర్టైజర్ సైట్‌కు లింక్‌ను మేము మీకు నోటిఫికేషన్‌గా పంపుతాము."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"మీరు తిరిగి ఆన్‌లైన్‌కు వచ్చినప్పుడు యాడ్ తెరవబడుతుంది."</string>
 <string name="s1" msgid="368094699078615544">"చిత్రాన్ని సేవ్ చేయి"</string>
 <string name="s2" msgid="4550830452390689489">"చిత్ర గ్యాలరీలో చిత్రాన్ని నిల్వ చేయడానికి ప్రకటనను అనుమతించాలా?"</string>
 <string name="s3" msgid="2435407834265420668">"అనుమతించు"</string>

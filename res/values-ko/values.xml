@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ko/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"광고를 열려면 탭하세요."</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"오프라인 상태에서 저장한 광고 보기"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"확인"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"다시 온라인 상태가 되면 링크와 함께 알림을 받습니다."</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"나중에"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"광고주 사이트로 연결되는 링크와 함께 알림을 보내 드리겠습니다."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"다시 온라인 상태가 될 때 광고 열기"</string>
 <string name="s1" msgid="368094699078615544">"이미지 저장"</string>
 <string name="s2" msgid="4550830452390689489">"광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?"</string>
 <string name="s3" msgid="2435407834265420668">"동의"</string>

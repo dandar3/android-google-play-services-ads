@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-el/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"Πατήστε για να ανοίξετε τη διαφήμιση."</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"Δείτε τη διαφήμιση που αποθηκεύσατε ενώ ήσασταν εκτός σύνδεσης"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ΟΚ"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Θα λάβετε μια ειδοποίηση με έναν σύνδεσμο όταν συνδεθείτε ξανά στο διαδίκτυο."</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"Όχι"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"Θα σας στείλουμε μια ειδοποίηση με έναν σύνδεσμο στον ιστότοπο του διαφημιζόμενου."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"Άνοιγμα της διαφήμισης όταν συνδεθείτε ξανά στο διαδίκτυο"</string>
 <string name="s1" msgid="368094699078615544">"Αποθήκευση εικόνας"</string>
 <string name="s2" msgid="4550830452390689489">"Να επιτραπεί στη διαφήμιση να αποθηκεύσει την εικόνα στο gallery φωτογραφιών;"</string>
 <string name="s3" msgid="2435407834265420668">"Αποδοχή"</string>

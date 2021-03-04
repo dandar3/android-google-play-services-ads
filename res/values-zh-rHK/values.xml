@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-zh-rHK/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"輕按即可開啟廣告"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"查看您在離線時儲存的廣告"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"確定"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"恢復連線後，您將收到含有該連結的通知"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"不用了，謝謝"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"我們會向您傳送通知，當中包含廣告客戶網站的連結。"</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"恢復連線後開啟廣告。"</string>
 <string name="s1" msgid="368094699078615544">"儲存圖片"</string>
 <string name="s2" msgid="4550830452390689489">"允許廣告將圖片儲存至相片集嗎？"</string>
 <string name="s3" msgid="2435407834265420668">"接受"</string>

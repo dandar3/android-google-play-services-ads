@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-fa/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"برای باز کردن آگهی، ضربه بزنید"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"مشاهده آگهی‌ای که هنگام آفلاین بودن ذخیره کردید"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"تأیید"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"وقتی دوباره آنلاین شدید، اعلانی حاوی پیوند دریافت خواهید کرد"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"نه متشکرم"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"اعلانی با پیوندی به سایت آگهی‌دهنده برایتان ارسال خواهیم کرد."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"وقتی دوباره آنلاین شدید آگهی را باز کنید."</string>
 <string name="s1" msgid="368094699078615544">"ذخیره تصویر"</string>
 <string name="s2" msgid="4550830452390689489">"به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟"</string>
 <string name="s3" msgid="2435407834265420668">"پذیرفتن"</string>

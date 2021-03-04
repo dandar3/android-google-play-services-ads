@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ne/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"विज्ञापन खोल्न ट्याप गर्नुहोस्"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"आफूले अफलाइन हुँदा सुरक्षित गरेको विज्ञापन हेर्नुहोस्"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ठिक छ"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"तपाईं फेरि अनलाइन हुँदा यो लिंकसहित एउटा सूचना प्राप्त गर्नु हुने छ"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"पर्दैन धन्यवाद"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"हामी तपाईंलाई विज्ञापनदाताको साइटको लिंकसहित एउटा सूचना पठाउने छौँ।"</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"फेरि अनलाइन हुँदा विज्ञापन खोल्नुहोस्।"</string>
 <string name="s1" msgid="368094699078615544">"छविलाई सुरक्षित गर्नुहोस्"</string>
 <string name="s2" msgid="4550830452390689489">"विज्ञापनलाई तस्बिरको ग्यालरीमा छवि भण्डारण गर्न अनुमति दिने हो?"</string>
 <string name="s3" msgid="2435407834265420668">"स्वीकार गर्नुहोस्"</string>

@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-vi/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"Nhấn để mở quảng cáo"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"Xem quảng cáo đã lưu khi bạn không có kết nối mạng"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Bạn sẽ nhận được thông báo kèm theo đường liên kết khi có kết nối mạng trở lại"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"Để sau"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"Chúng tôi sẽ gửi thông báo cho bạn kèm theo đường liên kết đến trang web của nhà quảng cáo."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"Mở quảng cáo khi bạn có kết nối mạng trở lại."</string>
 <string name="s1" msgid="368094699078615544">"Lưu hình ảnh"</string>
 <string name="s2" msgid="4550830452390689489">"Cho phép Quảng cáo lưu trữ hình ảnh trong thư viện Ảnh?"</string>
 <string name="s3" msgid="2435407834265420668">"Chấp nhận"</string>

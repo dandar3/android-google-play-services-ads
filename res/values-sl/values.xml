@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-sl/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"Dotaknite se, če želite odpreti oglas"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"Oglejte si oglas, ki ste shranili, ko ste bili brez povezave"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"V redu"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Prejeli boste obvestilo s povezavo, ko bo povezava znova vzpostavljena"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"Ne, hvala"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"Poslali vam bomo obvestilo s povezavo na spletno mesto oglaševalca."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"Odprite oglas, ko bo povezava znova vzpostavljena."</string>
 <string name="s1" msgid="368094699078615544">"Shranjevanje slike"</string>
 <string name="s2" msgid="4550830452390689489">"Ali dovolite, da oglas shrani sliko v galerijo slik?"</string>
 <string name="s3" msgid="2435407834265420668">"Sprejmi"</string>

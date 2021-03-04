@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-my/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"ကြော်ငြာဖွင့်ရန် တို့ပါ"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"သင်အော့ဖ်လိုင်းရှိနေစဉ်တွင် သိမ်းထားခဲ့သော ကြော်ငြာကို ကြည့်ရှုပါ"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"သင်အွန်လိုင်းပြန်တက်သည့်အခါ လင့်ခ်ပါသော အကြောင်းအကြားချက်တစ်ခု ရရှိပါမည်"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"မလိုပါ"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"ကြော်ငြာရှင်၏ဆိုက်သို့သွားသော လင့်ခ်တစ်ခုနှင့်အတူ အကြောင်းကြားချက်တစ်ခုကို ကျွန်ုပ်တို့ပို့ပေးပါမည်။"</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"သင်အွန်လိုင်းပြန်တက်သည့်အခါ ကြော်ငြာဖွင့်ပါ။"</string>
 <string name="s1" msgid="368094699078615544">"ဓာတ်ပုံကို သိမ်းရန်"</string>
 <string name="s2" msgid="4550830452390689489">"ကြော်ငြာအား ဓာတ်ပုံပြခန်းတွင် ပုံကိုသိမ်းဆည်းခွင့် ပြုလိုပါသလား။"</string>
 <string name="s3" msgid="2435407834265420668">"လက်ခံရန်"</string>

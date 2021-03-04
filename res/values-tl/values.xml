@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-tl/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"I-tap para buksan ang ad"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"Tingnan ang ad na na-save mo noong offline ka"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Makakatanggap ka ng notification na may link kapag online ka na ulit"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"Huwag na lang"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"Papadalhan ka namin ng notification na may link sa site ng advertiser."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"Buksan ang ad kapag online ka na ulit."</string>
 <string name="s1" msgid="368094699078615544">"I-save ang larawan"</string>
 <string name="s2" msgid="4550830452390689489">"Pahintulutan ang Ad na iimbak ang larawan sa Gallery ng larawan?"</string>
 <string name="s3" msgid="2435407834265420668">"Tanggapin"</string>

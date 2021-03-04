@@ -2,6 +2,13 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ta/strings.xml -->
 <eat-comment/>
+<string name="offline_notification_text" msgid="4014704848104544569">"விளம்பரத்தைத் திறக்க தட்டுக"</string>
+<string name="offline_notification_title" msgid="6989673690118446590">"ஆஃப்லைனில் இருந்தபோது சேமிக்கப்பட்ட விளம்பரத்தைக் காண்க"</string>
+<string name="offline_opt_in_confirm" msgid="6452552490969291315">"சரி"</string>
+<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"மீண்டும் ஆன்லைனுக்கு வரும்போது இணைப்புடன் கூடிய அறிவிப்பைப் பெறுவீர்கள்"</string>
+<string name="offline_opt_in_decline" msgid="1070677888032715836">"வேண்டாம்"</string>
+<string name="offline_opt_in_message" msgid="5998527443747404848">"விளம்பரதாரரின் தளத்திற்கான இணைப்புடன் கூடிய அறிவிப்பை உங்களுக்கு அனுப்புவோம்."</string>
+<string name="offline_opt_in_title" msgid="4928666061183236333">"மீண்டும் ஆன்லைனுக்கு வரும்போது விளம்பரம் திறக்கப்படும்."</string>
 <string name="s1" msgid="368094699078615544">"படத்தைச் சேமி"</string>
 <string name="s2" msgid="4550830452390689489">"பட கேலரியில் படத்தைச் சேமிக்க, விளம்பரத்தை அனுமதிக்கவா?"</string>
 <string name="s3" msgid="2435407834265420668">"அனுமதி"</string>
