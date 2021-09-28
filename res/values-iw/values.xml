@@ -9,11 +9,11 @@
 <string name="offline_opt_in_decline" msgid="1070677888032715836">"לא תודה"</string>
 <string name="offline_opt_in_message" msgid="5998527443747404848">"נשלח לך התראה עם קישור לאתר המפרסם."</string>
 <string name="offline_opt_in_title" msgid="4928666061183236333">"יש לפתוח את המודעה כשיתחדש החיבור לאינטרנט."</string>
-<string name="s1" msgid="368094699078615544">"שמור את התמונה"</string>
+<string name="s1" msgid="368094699078615544">"שמירת התמונה"</string>
 <string name="s2" msgid="4550830452390689489">"האם לאפשר למודעה לאחסן תמונה בגלריית התמונות?"</string>
-<string name="s3" msgid="2435407834265420668">"קבל"</string>
-<string name="s4" msgid="9167523597401839819">"דחה"</string>
-<string name="s5" msgid="1566682516266724847">"צור אירוע ביומן"</string>
+<string name="s3" msgid="2435407834265420668">"קבלה"</string>
+<string name="s4" msgid="9167523597401839819">"דחייה"</string>
+<string name="s5" msgid="1566682516266724847">"יצירת אירוע ביומן"</string>
 <string name="s6" msgid="5996672174517137271">"האם לאפשר למודעה ליצור אירוע ביומן?"</string>
 <string name="s7" msgid="7163549807207034258">"מודעת בדיקה"</string>
 </resources>
