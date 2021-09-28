@@ -12,6 +12,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-identifier"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-lite"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-gass"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
