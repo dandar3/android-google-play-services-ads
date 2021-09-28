@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ur/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"اشتہار کھولنے کیلئے تھپتھپائیں"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"جب آپ آف لائن تھے تب آپ نے جس اشتہار کو محفوظ کیا تھا اس کا ملاحظہ کریں"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ٹھیک ہے"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"جب آپ آن لائن واپس آئیں گے تو آپ کو لنک کے ساتھ اطلاع حاصل ہوگی"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"نہیں شکریہ"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"ہم آپ کو مشتہر کی سائٹ کے لنک کے ساتھ اطلاع بھیجیں گے۔"</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"آن لائن واپس آنے پر اشتہار کھولیں۔"</string>
-<string name="s1" msgid="368094699078615544">"تصویر محفوظ کریں"</string>
-<string name="s2" msgid="4550830452390689489">"اشتہار کو تصویری گیلری میں تصویر محفوظ کرنے کی اجازت دیں؟"</string>
-<string name="s3" msgid="2435407834265420668">"قبول کریں"</string>
-<string name="s4" msgid="9167523597401839819">"مسترد کریں"</string>
-<string name="s5" msgid="1566682516266724847">"کیلنڈر ایونٹ بنائیں"</string>
-<string name="s6" msgid="5996672174517137271">"اشتہار کو ایک کیلنڈر ایونٹ بنانے کی اجازت دیں؟"</string>
-<string name="s7" msgid="7163549807207034258">"اشتہار ٹیسٹ کریں"</string>
+<string name="offline_notification_text">اشتہار کھولنے کیلئے تھپتھپائیں</string>
+<string name="offline_notification_title">جب آپ آف لائن تھے تب آپ نے جس اشتہار کو محفوظ کیا تھا اس کا ملاحظہ کریں</string>
+<string name="offline_opt_in_confirm">ٹھیک ہے</string>
+<string name="offline_opt_in_confirmation">جب آپ آن لائن واپس آئیں گے تو آپ کو لنک کے ساتھ اطلاع حاصل ہوگی</string>
+<string name="offline_opt_in_decline">نہیں شکریہ</string>
+<string name="offline_opt_in_message">ہم آپ کو مشتہر کی سائٹ کے لنک کے ساتھ اطلاع بھیجیں گے۔</string>
+<string name="offline_opt_in_title">آن لائن واپس آنے پر اشتہار کھولیں۔</string>
+<string name="s1">تصویر محفوظ کریں</string>
+<string name="s2">اشتہار کو تصویری گیلری میں تصویر محفوظ کرنے کی اجازت دیں؟</string>
+<string name="s3">قبول کریں</string>
+<string name="s4">مسترد کریں</string>
+<string name="s5">کیلنڈر ایونٹ بنائیں</string>
+<string name="s6">اشتہار کو ایک کیلنڈر ایونٹ بنانے کی اجازت دیں؟</string>
+<string name="s7">اشتہار ٹیسٹ کریں</string>
 </resources>

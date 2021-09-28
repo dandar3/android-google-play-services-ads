@@ -14,10 +14,16 @@
 # Hence, it is safe to suppress Proguard's warnings.
 -dontwarn android.view.Surface
 
+# These are checked at runtime for whether they exist, so it is fine if the API level doesn't include these.
+-dontwarn android.content.pm.ApkChecksum
+-dontwarn android.content.pm.PackageManager$OnChecksumsReadyListener
+# Only for the requestChecksums method, but sadly -dontwarn can't take just a single method.
+-dontwarn android.content.pm.PackageManager
+
 # We keep all fields for every generated proto file as the runtime uses
 # reflection over them that ProGuard cannot detect. Without this keep
 # rule, fields may be removed that would cause runtime failures.
--keepclassmembers class * extends com.google.android.gms.internal.ads.zzfym {
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzgec {
   <fields>;
 }
 

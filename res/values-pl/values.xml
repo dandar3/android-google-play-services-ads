@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-pl/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Kliknij, by otworzyć reklamę"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"Wyświetl reklamę zapisaną w trybie offline"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Otrzymasz powiadomienie z linkiem, gdy znów połączysz się z internetem"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"Nie"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"Wyślemy Ci powiadomienie z linkiem do strony reklamodawcy."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Otwórz reklamę, gdy znów połączysz się z internetem."</string>
-<string name="s1" msgid="368094699078615544">"Zapisz obraz"</string>
-<string name="s2" msgid="4550830452390689489">"Zezwolić reklamie na zapisanie obrazu w galerii zdjęć?"</string>
-<string name="s3" msgid="2435407834265420668">"Zaakceptuj"</string>
-<string name="s4" msgid="9167523597401839819">"Odrzuć"</string>
-<string name="s5" msgid="1566682516266724847">"Utwórz wydarzenie w kalendarzu"</string>
-<string name="s6" msgid="5996672174517137271">"Zezwolić reklamie na utworzenie wydarzenia w kalendarzu?"</string>
-<string name="s7" msgid="7163549807207034258">"Reklama testowa"</string>
+<string name="offline_notification_text">Kliknij, by otworzyć reklamę</string>
+<string name="offline_notification_title">Wyświetl reklamę zapisaną w trybie offline</string>
+<string name="offline_opt_in_confirm">OK</string>
+<string name="offline_opt_in_confirmation">Otrzymasz powiadomienie z linkiem, gdy znów połączysz się z internetem</string>
+<string name="offline_opt_in_decline">Nie</string>
+<string name="offline_opt_in_message">Wyślemy Ci powiadomienie z linkiem do strony reklamodawcy.</string>
+<string name="offline_opt_in_title">Otwórz reklamę, gdy znów połączysz się z internetem.</string>
+<string name="s1">Zapisz obraz</string>
+<string name="s2">Zezwolić reklamie na zapisanie obrazu w galerii zdjęć?</string>
+<string name="s3">Zaakceptuj</string>
+<string name="s4">Odrzuć</string>
+<string name="s5">Utwórz wydarzenie w kalendarzu</string>
+<string name="s6">Zezwolić reklamie na utworzenie wydarzenia w kalendarzu?</string>
+<string name="s7">Reklama testowa</string>
 </resources>

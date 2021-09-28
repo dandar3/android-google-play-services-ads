@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-nb/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Trykk for å åpne annonsen"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"Se annonsen du lagret mens du var uten nett"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Du får et varsel med linken når du er på nettet igjen"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"Nei takk"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"Vi sender deg et varsel med en link til annonsørnettstedet."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Åpne annonsen når du er på nettet igjen."</string>
-<string name="s1" msgid="368094699078615544">"Lagre bilde"</string>
-<string name="s2" msgid="4550830452390689489">"Vil du la annonsen lagre bildet i bildegalleriet?"</string>
-<string name="s3" msgid="2435407834265420668">"Godta"</string>
-<string name="s4" msgid="9167523597401839819">"Avslå"</string>
-<string name="s5" msgid="1566682516266724847">"Opprett kalenderaktivitet"</string>
-<string name="s6" msgid="5996672174517137271">"Vil du la annonsen opprette en kalenderaktivitet?"</string>
-<string name="s7" msgid="7163549807207034258">"Testannonse"</string>
+<string name="offline_notification_text">Trykk for å åpne annonsen</string>
+<string name="offline_notification_title">Se annonsen du lagret mens du var uten nett</string>
+<string name="offline_opt_in_confirm">OK</string>
+<string name="offline_opt_in_confirmation">Du får et varsel med linken når du er på nettet igjen</string>
+<string name="offline_opt_in_decline">Nei takk</string>
+<string name="offline_opt_in_message">Vi sender deg et varsel med en link til annonsørnettstedet.</string>
+<string name="offline_opt_in_title">Åpne annonsen når du er på nettet igjen.</string>
+<string name="s1">Lagre bilde</string>
+<string name="s2">Vil du la annonsen lagre bildet i bildegalleriet?</string>
+<string name="s3">Godta</string>
+<string name="s4">Avslå</string>
+<string name="s5">Opprett kalenderaktivitet</string>
+<string name="s6">Vil du la annonsen opprette en kalenderaktivitet?</string>
+<string name="s7">Testannonse</string>
 </resources>

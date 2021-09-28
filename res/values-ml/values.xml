@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ml/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"പരസ്യം തുറക്കാൻ ടാപ്പ് ചെയ്യുക"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"നിങ്ങൾ ഓഫ്‌ലൈനിൽ ആയിരുന്നപ്പോൾ സംരക്ഷിച്ച പരസ്യം കാണുക"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ശരി"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"ഓൺലൈനിൽ തിരിച്ചെത്തുമ്പോൾ ലിങ്ക് അടങ്ങിയ അറിയിപ്പ് നിങ്ങൾക്ക് ലഭിക്കും"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"വേണ്ട"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"പരസ്യദാതാവിന്റെ സൈറ്റിലേക്കുള്ള ലിങ്ക് അടങ്ങിയ അറിയിപ്പ് ഞങ്ങൾ നിങ്ങൾക്ക് അയയ്‌ക്കും"</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"നിങ്ങൾ ഓൺലൈനിൽ തിരിച്ചെത്തുമ്പോൾ പരസ്യം തുറക്കുക."</string>
-<string name="s1" msgid="368094699078615544">"ചിത്രം സംരക്ഷിക്കുക"</string>
-<string name="s2" msgid="4550830452390689489">"\'ചിത്ര ഗാലറി\'യിൽ ചിത്രം സംഭരിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?"</string>
-<string name="s3" msgid="2435407834265420668">"അംഗീകരിക്കുക"</string>
-<string name="s4" msgid="9167523597401839819">"നിരസിക്കുക"</string>
-<string name="s5" msgid="1566682516266724847">"കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കുക"</string>
-<string name="s6" msgid="5996672174517137271">"കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?"</string>
-<string name="s7" msgid="7163549807207034258">"പരസ്യം പരീക്ഷിക്കുക"</string>
+<string name="offline_notification_text">പരസ്യം തുറക്കാൻ ടാപ്പ് ചെയ്യുക</string>
+<string name="offline_notification_title">നിങ്ങൾ ഓഫ്‌ലൈനിൽ ആയിരുന്നപ്പോൾ സംരക്ഷിച്ച പരസ്യം കാണുക</string>
+<string name="offline_opt_in_confirm">ശരി</string>
+<string name="offline_opt_in_confirmation">ഓൺലൈനിൽ തിരിച്ചെത്തുമ്പോൾ ലിങ്ക് അടങ്ങിയ അറിയിപ്പ് നിങ്ങൾക്ക് ലഭിക്കും</string>
+<string name="offline_opt_in_decline">വേണ്ട</string>
+<string name="offline_opt_in_message">പരസ്യദാതാവിന്റെ സൈറ്റിലേക്കുള്ള ലിങ്ക് അടങ്ങിയ അറിയിപ്പ് ഞങ്ങൾ നിങ്ങൾക്ക് അയയ്‌ക്കും</string>
+<string name="offline_opt_in_title">നിങ്ങൾ ഓൺലൈനിൽ തിരിച്ചെത്തുമ്പോൾ പരസ്യം തുറക്കുക.</string>
+<string name="s1">ചിത്രം സംരക്ഷിക്കുക</string>
+<string name="s2">\'ചിത്ര ഗാലറി\'യിൽ ചിത്രം സംഭരിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?</string>
+<string name="s3">അംഗീകരിക്കുക</string>
+<string name="s4">നിരസിക്കുക</string>
+<string name="s5">കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കുക</string>
+<string name="s6">കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?</string>
+<string name="s7">പരസ്യം പരീക്ഷിക്കുക</string>
 </resources>

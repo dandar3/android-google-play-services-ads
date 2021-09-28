@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-zh-rTW/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"輕觸即可開啟廣告"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"查看你在離線時儲存的廣告"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"確定"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"你會在重新連上網路後收到含有該連結的通知。"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"不用了，謝謝"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"我們會傳送含有廣告客戶網站連結的通知給你。"</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"系統會在重新連上網路後開啟廣告。"</string>
-<string name="s1" msgid="368094699078615544">"儲存圖片"</string>
-<string name="s2" msgid="4550830452390689489">"要允許廣告將圖片儲存在相片庫中嗎？"</string>
-<string name="s3" msgid="2435407834265420668">"接受"</string>
-<string name="s4" msgid="9167523597401839819">"拒絕"</string>
-<string name="s5" msgid="1566682516266724847">"建立日曆活動"</string>
-<string name="s6" msgid="5996672174517137271">"要允許廣告建立日曆活動嗎？"</string>
-<string name="s7" msgid="7163549807207034258">"測試廣告"</string>
+<string name="offline_notification_text">輕觸即可開啟廣告</string>
+<string name="offline_notification_title">查看你在離線時儲存的廣告</string>
+<string name="offline_opt_in_confirm">確定</string>
+<string name="offline_opt_in_confirmation">你會在重新連上網路後收到含有該連結的通知。</string>
+<string name="offline_opt_in_decline">不用了，謝謝</string>
+<string name="offline_opt_in_message">我們會傳送含有廣告客戶網站連結的通知給你。</string>
+<string name="offline_opt_in_title">系統會在重新連上網路後開啟廣告。</string>
+<string name="s1">儲存圖片</string>
+<string name="s2">要允許廣告將圖片儲存在相片庫中嗎？</string>
+<string name="s3">接受</string>
+<string name="s4">拒絕</string>
+<string name="s5">建立日曆活動</string>
+<string name="s6">要允許廣告建立日曆活動嗎？</string>
+<string name="s7">測試廣告</string>
 </resources>

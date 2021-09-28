@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-as/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"বিজ্ঞাপন খুলিবলৈ টিপক"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"আপুনি অফলাইন হৈ থাকোঁতে ছেভ কৰা বিজ্ঞাপনটো চাওক"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ঠিক আছে"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"আপুনি পুনৰাই অনলাইন হ’লে লিংকটোৰ সৈতে এটা জাননী পাব"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"নালাগে দিয়ক"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"বিজ্ঞাপনদাতাৰ ছাইটৰ এটা লিংকৰ সৈতে আমি আপোনালৈ এটা জাননী পঠিয়াম।"</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"আপুনি পুনৰাই অনলাইন হ’লে বিজ্ঞাপন খোলে।"</string>
-<string name="s1" msgid="368094699078615544">"ছবি ছেভ কৰক"</string>
-<string name="s2" msgid="4550830452390689489">"বিজ্ঞাপনক চিত্ৰৰ গেলাৰীত ছবি সঞ্চয় কৰিবলৈ অনুমতি দিবনে?"</string>
-<string name="s3" msgid="2435407834265420668">"স্বীকাৰ কৰক"</string>
-<string name="s4" msgid="9167523597401839819">"প্ৰত্যাখ্যান কৰক"</string>
-<string name="s5" msgid="1566682516266724847">"কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰক"</string>
-<string name="s6" msgid="5996672174517137271">"বিজ্ঞাপনক কোনো কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰিবলৈ অনুমতি দিবনে?"</string>
-<string name="s7" msgid="7163549807207034258">"পৰীক্ষণ বিজ্ঞাপন"</string>
+<string name="offline_notification_text">বিজ্ঞাপন খুলিবলৈ টিপক</string>
+<string name="offline_notification_title">আপুনি অফলাইন হৈ থাকোঁতে ছেভ কৰা বিজ্ঞাপনটো চাওক</string>
+<string name="offline_opt_in_confirm">ঠিক আছে</string>
+<string name="offline_opt_in_confirmation">আপুনি পুনৰাই অনলাইন হ’লে লিংকটোৰ সৈতে এটা জাননী পাব</string>
+<string name="offline_opt_in_decline">নালাগে দিয়ক</string>
+<string name="offline_opt_in_message">বিজ্ঞাপনদাতাৰ ছাইটৰ এটা লিংকৰ সৈতে আমি আপোনালৈ এটা জাননী পঠিয়াম।</string>
+<string name="offline_opt_in_title">আপুনি পুনৰাই অনলাইন হ’লে বিজ্ঞাপন খোলে।</string>
+<string name="s1">ছবি ছেভ কৰক</string>
+<string name="s2">বিজ্ঞাপনক চিত্ৰৰ গেলাৰীত ছবি সঞ্চয় কৰিবলৈ অনুমতি দিবনে?</string>
+<string name="s3">স্বীকাৰ কৰক</string>
+<string name="s4">প্ৰত্যাখ্যান কৰক</string>
+<string name="s5">কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰক</string>
+<string name="s6">বিজ্ঞাপনক কোনো কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰিবলৈ অনুমতি দিবনে?</string>
+<string name="s7">পৰীক্ষণ বিজ্ঞাপন</string>
 </resources>

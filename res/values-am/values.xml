@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-am/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"ማስታወቂያን ለመክፈት መታ ያድርጉ"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"ከመስመር ውጭ ሲሆኑ ያስቀመጡትን ማስታወቂያ ይመልከቱ"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"እሺ"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"ወደ መስመር ላይ ሲመለሱ ከአገናኙ ጋር አንድ ማሳወቂያ ይደርስዎታል"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"አይ አመሰግናለሁ"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"ወደ ማስታወቂያ አስነጋሪ ጣቢያው ከሚወስድ አገናኝ ጋር አንድ ማሳወቂያ እንልክልዎታለን።"</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"መስመር ላይ ሲመለሱ ማስታወቂያ ይክፈቱ።"</string>
-<string name="s1" msgid="368094699078615544">"ምስል አስቀምጥ"</string>
-<string name="s2" msgid="4550830452390689489">"ማስታወቂያ ምስሉን በስዕል ማዕከለ-ስዕላት ውስጥ እንዲያከማች ይፈቀድለት?"</string>
-<string name="s3" msgid="2435407834265420668">"ተቀበል"</string>
-<string name="s4" msgid="9167523597401839819">"ውድቅ አድርግ"</string>
-<string name="s5" msgid="1566682516266724847">"የቀን መቁጠሪያ ክስተት ፍጠር"</string>
-<string name="s6" msgid="5996672174517137271">"ማስታወቂያ የቀን መቁጠሪያ ክስተት እንዲፈጥር ይፈቀድለት?"</string>
-<string name="s7" msgid="7163549807207034258">"የሙከራ ማስታወቂያ"</string>
+<string name="offline_notification_text">ማስታወቂያን ለመክፈት መታ ያድርጉ</string>
+<string name="offline_notification_title">ከመስመር ውጭ ሲሆኑ ያስቀመጡትን ማስታወቂያ ይመልከቱ</string>
+<string name="offline_opt_in_confirm">እሺ</string>
+<string name="offline_opt_in_confirmation">ወደ መስመር ላይ ሲመለሱ ከአገናኙ ጋር አንድ ማሳወቂያ ይደርስዎታል</string>
+<string name="offline_opt_in_decline">አይ አመሰግናለሁ</string>
+<string name="offline_opt_in_message">ወደ ማስታወቂያ አስነጋሪ ጣቢያው ከሚወስድ አገናኝ ጋር አንድ ማሳወቂያ እንልክልዎታለን።</string>
+<string name="offline_opt_in_title">መስመር ላይ ሲመለሱ ማስታወቂያ ይክፈቱ።</string>
+<string name="s1">ምስል አስቀምጥ</string>
+<string name="s2">ማስታወቂያ ምስሉን በስዕል ማእከለ-ሥዕላት ውስጥ እንዲያከማች ይፈቀድለት?</string>
+<string name="s3">ተቀበል</string>
+<string name="s4">ውድቅ አድርግ</string>
+<string name="s5">የቀን መቁጠሪያ ክስተት ፍጠር</string>
+<string name="s6">ማስታወቂያ የቀን መቁጠሪያ ክስተት እንዲፈጥር ይፈቀድለት?</string>
+<string name="s7">የሙከራ ማስታወቂያ</string>
 </resources>

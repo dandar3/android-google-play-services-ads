@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-de/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Tippen, um die Werbung zu öffnen"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"Werbung anzeigen, die du gespeichert hast, während du offline warst"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Du bekommst eine Benachrichtigung mit dem Link, wenn du wieder online bist"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"Nein danke"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"Wir senden dir eine Benachrichtigung mit einem Link zur Website des Werbetreibenden."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Werbung öffnen, wenn du wieder online bist."</string>
-<string name="s1" msgid="368094699078615544">"Bild speichern"</string>
-<string name="s2" msgid="4550830452390689489">"Der Werbeanzeige erlauben, das Bild in der Bildergalerie zu speichern?"</string>
-<string name="s3" msgid="2435407834265420668">"Zustimmen"</string>
-<string name="s4" msgid="9167523597401839819">"Ablehnen"</string>
-<string name="s5" msgid="1566682516266724847">"Kalendertermin erstellen"</string>
-<string name="s6" msgid="5996672174517137271">"Der Werbeanzeige erlauben, einen Kalendertermin zu erstellen?"</string>
-<string name="s7" msgid="7163549807207034258">"Testanzeige"</string>
+<string name="offline_notification_text">Tippen, um die Werbung zu öffnen</string>
+<string name="offline_notification_title">Werbung anzeigen, die du gespeichert hast, während du offline warst</string>
+<string name="offline_opt_in_confirm">OK</string>
+<string name="offline_opt_in_confirmation">Du bekommst eine Benachrichtigung mit dem Link, wenn du wieder online bist</string>
+<string name="offline_opt_in_decline">Nein danke</string>
+<string name="offline_opt_in_message">Wir senden dir eine Benachrichtigung mit einem Link zur Website des Werbetreibenden.</string>
+<string name="offline_opt_in_title">Werbung öffnen, wenn du wieder online bist.</string>
+<string name="s1">Bild speichern</string>
+<string name="s2">Der Werbeanzeige erlauben, das Bild in der Bildergalerie zu speichern?</string>
+<string name="s3">Zustimmen</string>
+<string name="s4">Ablehnen</string>
+<string name="s5">Kalendertermin erstellen</string>
+<string name="s6">Der Werbeanzeige erlauben, einen Kalendertermin zu erstellen?</string>
+<string name="s7">Testanzeige</string>
 </resources>

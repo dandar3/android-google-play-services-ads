@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ky/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Жарнаманы ачуу үчүн таптаңыз"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"Оффлайн режиминде сактаган жарнамаңызды көрүңүз"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ЖАРАЙТ"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Онлайн режимине кайтып келгенде, шилтеме камтылган билдирме аласыз"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"Жок, рахмат"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"Сизге жарнамачынын сайтына шилтеме камтылган билдирме жөнөтөбүз."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Жарнама сиз онлайн режимине кайтып келгенде ачылат."</string>
-<string name="s1" msgid="368094699078615544">"Сүрөттү сактоо"</string>
-<string name="s2" msgid="4550830452390689489">"Жарнамадан Сүрөт галереясына сүрөт сакталсынбы?"</string>
-<string name="s3" msgid="2435407834265420668">"Кабыл алуу"</string>
-<string name="s4" msgid="9167523597401839819">"Баш тартуу"</string>
-<string name="s5" msgid="1566682516266724847">"Жылнаама окуясын түзүү"</string>
-<string name="s6" msgid="5996672174517137271">"Жарнамада жылнаама окуясы түзүлсүнбү?"</string>
-<string name="s7" msgid="7163549807207034258">"Жарнаманы сынап көрүңүз"</string>
+<string name="offline_notification_text">Жарнаманы ачуу үчүн таптаңыз</string>
+<string name="offline_notification_title">Оффлайн режиминде сактаган жарнамаңызды көрүңүз</string>
+<string name="offline_opt_in_confirm">ЖАРАЙТ</string>
+<string name="offline_opt_in_confirmation">Онлайн режимине кайтып келгенде, шилтеме камтылган билдирме аласыз</string>
+<string name="offline_opt_in_decline">Жок, рахмат</string>
+<string name="offline_opt_in_message">Сизге жарнамачынын сайтына шилтеме камтылган билдирме жөнөтөбүз.</string>
+<string name="offline_opt_in_title">Жарнама сиз онлайн режимине кайтып келгенде ачылат.</string>
+<string name="s1">Сүрөттү сактоо</string>
+<string name="s2">Жарнамадан Сүрөт галереясына сүрөт сакталсынбы?</string>
+<string name="s3">Кабыл алуу</string>
+<string name="s4">Баш тартуу</string>
+<string name="s5">Жылнаама окуясын түзүү</string>
+<string name="s6">Жарнамада жылнаама окуясы түзүлсүнбү?</string>
+<string name="s7">Жарнаманы сынап көрүңүз</string>
 </resources>

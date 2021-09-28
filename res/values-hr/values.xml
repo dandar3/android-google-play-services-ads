@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-hr/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Dodirnite za otvaranje oglasa"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"Pogledajte oglas koji ste spremili dok ste bili offline"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"U redu"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Primit ćete obavijest s vezom kad se ponovo povežete s internetom"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"Ne, hvala"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"Poslat ćemo vam obavijest s vezom do web-lokacije oglašivača."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Otvorite oglas kad se ponovo povežete s internetom."</string>
-<string name="s1" msgid="368094699078615544">"Spremi sliku"</string>
-<string name="s2" msgid="4550830452390689489">"Želite li dopustiti oglasu da spremi sliku u galeriju slika?"</string>
-<string name="s3" msgid="2435407834265420668">"Prihvati"</string>
-<string name="s4" msgid="9167523597401839819">"Odbij"</string>
-<string name="s5" msgid="1566682516266724847">"Izradi događaj u kalendaru"</string>
-<string name="s6" msgid="5996672174517137271">"Želite li dopustiti oglasu da izradi događaj u kalendaru?"</string>
-<string name="s7" msgid="7163549807207034258">"Testni oglas"</string>
+<string name="offline_notification_text">Dodirnite za otvaranje oglasa</string>
+<string name="offline_notification_title">Pogledajte oglas koji ste spremili dok ste bili offline</string>
+<string name="offline_opt_in_confirm">U redu</string>
+<string name="offline_opt_in_confirmation">Primit ćete obavijest s vezom kad se ponovo povežete s internetom</string>
+<string name="offline_opt_in_decline">Ne, hvala</string>
+<string name="offline_opt_in_message">Poslat ćemo vam obavijest s vezom do web-lokacije oglašivača.</string>
+<string name="offline_opt_in_title">Otvorite oglas kad se ponovo povežete s internetom.</string>
+<string name="s1">Spremi sliku</string>
+<string name="s2">Želite li dopustiti oglasu da spremi sliku u galeriju slika?</string>
+<string name="s3">Prihvati</string>
+<string name="s4">Odbij</string>
+<string name="s5">Izradi događaj u kalendaru</string>
+<string name="s6">Želite li dopustiti oglasu da izradi događaj u kalendaru?</string>
+<string name="s7">Testni oglas</string>
 </resources>

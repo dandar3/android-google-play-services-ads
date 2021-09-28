@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-mr/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"जाहिरात उघडण्यासाठी टॅप करा"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"तुम्ही ऑफलाइन असताना तुम्ही सेव्ह केलेली जाहिरात पाहा"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ओके"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"तुम्ही पुन्हा ऑनलाइन याल तेव्हा तुम्हाला लिंकसह सूचना मिळेल"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"नाही, नको"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"आम्ही तुम्हाला जाहिरातदाराच्या साइटच्या लिंकसह एक सूचना पाठवू."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"तुम्ही पुन्हा ऑनलाइन याल तेव्हा जाहिरात उघडा."</string>
-<string name="s1" msgid="368094699078615544">"इमेज सेव्ह करा"</string>
-<string name="s2" msgid="4550830452390689489">"चित्र गॅलरीत इमेज संग्रहित करण्याची जाहिरातीस अनुमती द्यायची?"</string>
-<string name="s3" msgid="2435407834265420668">"स्वीकारा"</string>
-<string name="s4" msgid="9167523597401839819">"नकार द्या"</string>
-<string name="s5" msgid="1566682516266724847">"कॅलेंडर इव्हेंट तयार करा"</string>
-<string name="s6" msgid="5996672174517137271">"जाहिरातीस कॅलेंडर इव्हेंट तयार करण्याची परवानगी द्यायची?"</string>
-<string name="s7" msgid="7163549807207034258">"चाचणी जाहिरात"</string>
+<string name="offline_notification_text">जाहिरात उघडण्यासाठी टॅप करा</string>
+<string name="offline_notification_title">तुम्ही ऑफलाइन असताना तुम्ही सेव्ह केलेली जाहिरात पाहा</string>
+<string name="offline_opt_in_confirm">ओके</string>
+<string name="offline_opt_in_confirmation">तुम्ही पुन्हा ऑनलाइन याल तेव्हा तुम्हाला लिंकसह सूचना मिळेल</string>
+<string name="offline_opt_in_decline">नाही, नको</string>
+<string name="offline_opt_in_message">आम्ही तुम्हाला जाहिरातदाराच्या साइटच्या लिंकसह एक सूचना पाठवू.</string>
+<string name="offline_opt_in_title">तुम्ही पुन्हा ऑनलाइन याल तेव्हा जाहिरात उघडा.</string>
+<string name="s1">इमेज सेव्ह करा</string>
+<string name="s2">चित्र गॅलरीत इमेज संग्रहित करण्याची जाहिरातीस अनुमती द्यायची?</string>
+<string name="s3">स्वीकारा</string>
+<string name="s4">नकार द्या</string>
+<string name="s5">कॅलेंडर इव्हेंट तयार करा</string>
+<string name="s6">जाहिरातीस कॅलेंडर इव्हेंट तयार करण्याची परवानगी द्यायची?</string>
+<string name="s7">चाचणी जाहिरात</string>
 </resources>

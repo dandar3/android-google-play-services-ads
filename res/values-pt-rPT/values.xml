@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-pt-rPT/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Toque para abrir o anúncio."</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"Veja o anúncio que guardou quando estava offline"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Receberá uma notificação com o link quando voltar a estar online."</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"Não"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"Receberá uma notificação com um link para o site do anunciante."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Abra o anúncio quando voltar a estar online"</string>
-<string name="s1" msgid="368094699078615544">"Guardar imagem"</string>
-<string name="s2" msgid="4550830452390689489">"Permitir ao anúncio armazenar uma imagem na galeria de imagens?"</string>
-<string name="s3" msgid="2435407834265420668">"Aceitar"</string>
-<string name="s4" msgid="9167523597401839819">"Recusar"</string>
-<string name="s5" msgid="1566682516266724847">"Criar evento de calendário"</string>
-<string name="s6" msgid="5996672174517137271">"Permitir ao anúncio criar um evento de calendário?"</string>
-<string name="s7" msgid="7163549807207034258">"Anúncio de teste"</string>
+<string name="offline_notification_text">Toque para abrir o anúncio.</string>
+<string name="offline_notification_title">Veja o anúncio que guardou quando estava offline</string>
+<string name="offline_opt_in_confirm">OK</string>
+<string name="offline_opt_in_confirmation">Receberá uma notificação com o link quando voltar a estar online.</string>
+<string name="offline_opt_in_decline">Não</string>
+<string name="offline_opt_in_message">Receberá uma notificação com um link para o site do anunciante.</string>
+<string name="offline_opt_in_title">Abra o anúncio quando voltar a estar online</string>
+<string name="s1">Guardar imagem</string>
+<string name="s2">Permitir ao anúncio armazenar uma imagem na galeria de imagens?</string>
+<string name="s3">Aceitar</string>
+<string name="s4">Recusar</string>
+<string name="s5">Criar evento de calendário</string>
+<string name="s6">Permitir ao anúncio criar um evento de calendário?</string>
+<string name="s7">Anúncio de teste</string>
 </resources>

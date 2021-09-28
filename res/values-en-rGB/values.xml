@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-en-rGB/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Tap to open ad"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"View the ad you saved when you were offline"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"OK"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"You\'ll get a notification with the link when you\'re back online"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"No, thanks"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"We\'ll send you a notification with a link to the advertiser site."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Open ad when you\'re back online."</string>
-<string name="s1" msgid="368094699078615544">"Save image"</string>
-<string name="s2" msgid="4550830452390689489">"Allow Ad to store image in Picture gallery?"</string>
-<string name="s3" msgid="2435407834265420668">"Accept"</string>
-<string name="s4" msgid="9167523597401839819">"Decline"</string>
-<string name="s5" msgid="1566682516266724847">"Create calendar event"</string>
-<string name="s6" msgid="5996672174517137271">"Allow Ad to create a calendar event?"</string>
-<string name="s7" msgid="7163549807207034258">"Test Ad"</string>
+<string name="offline_notification_text">Tap to open ad</string>
+<string name="offline_notification_title">View the ad you saved when you were offline</string>
+<string name="offline_opt_in_confirm">OK</string>
+<string name="offline_opt_in_confirmation">You\'ll get a notification with the link when you\'re back online</string>
+<string name="offline_opt_in_decline">No, thanks</string>
+<string name="offline_opt_in_message">We\'ll send you a notification with a link to the advertiser site.</string>
+<string name="offline_opt_in_title">Open ad when you\'re back online.</string>
+<string name="s1">Save image</string>
+<string name="s2">Allow Ad to store image in Picture gallery?</string>
+<string name="s3">Accept</string>
+<string name="s4">Decline</string>
+<string name="s5">Create calendar event</string>
+<string name="s6">Allow Ad to create a calendar event?</string>
+<string name="s7">Test Ad</string>
 </resources>

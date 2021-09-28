@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-km/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"ចុចដើម្បីបើក​ការផ្សាយពាណិជ្ជកម្ម"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"មើល​ការផ្សាយពាណិជ្ជកម្ម​ដែលអ្នកបានរក្សាទុក នៅពេលអ្នកគ្មានអ៊ីនធឺណិត"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"យល់ព្រម"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"អ្នកនឹងទទួលបាន​ការជូនដំណឹងដែលមានតំណ នៅពេលអ្នកមាន​ការតភ្ជាប់អ៊ីនធឺណិតវិញ"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"ទេ អរគុណ"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"យើងនឹងផ្ញើ​ការជូនដំណឹង​ដែលមាន​តំណ​ទៅកាន់​គេហទំព័ររបស់​អ្នកផ្សាយពាណិជ្ជកម្មដល់អ្នក។"</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"បើក​ការផ្សាយពាណិជ្ជកម្ម នៅពេលអ្នក​មាន​ការតភ្ជាប់​អ៊ីនធឺណិតវិញ។"</string>
-<string name="s1" msgid="368094699078615544">"រក្សាទុក​រូបភាព"</string>
-<string name="s2" msgid="4550830452390689489">"អនុញ្ញាត​ឲ្យ​ពាណិជ្ជកម្ម​ផ្ទុក​រូបភាព​នៅក្នុង​វិចិត្រសាល​រូបភាព​ដែរទេ?"</string>
-<string name="s3" msgid="2435407834265420668">"យល់ព្រម"</string>
-<string name="s4" msgid="9167523597401839819">"បដិសេធ"</string>
-<string name="s5" msgid="1566682516266724847">"បង្កើត​ព្រឹត្តិការណ៍​ក្នុង​ប្រតិទិន"</string>
-<string name="s6" msgid="5996672174517137271">"អនុញ្ញាត​ឲ្យ​ពាណិជ្ជកម្ម​បង្កើត​ព្រឹត្តិការណ៍​ក្នុង​ប្រតិទិន​ដែរទេ?"</string>
-<string name="s7" msgid="7163549807207034258">"ពាណិជ្ជកម្ម​សាកល្បង"</string>
+<string name="offline_notification_text">ចុចដើម្បីបើក​ការផ្សាយពាណិជ្ជកម្ម</string>
+<string name="offline_notification_title">មើល​ការផ្សាយពាណិជ្ជកម្ម​ដែលអ្នកបានរក្សាទុក នៅពេលអ្នកគ្មានអ៊ីនធឺណិត</string>
+<string name="offline_opt_in_confirm">យល់ព្រម</string>
+<string name="offline_opt_in_confirmation">អ្នកនឹងទទួលបាន​ការជូនដំណឹងដែលមានតំណ នៅពេលអ្នកមាន​ការតភ្ជាប់អ៊ីនធឺណិតវិញ</string>
+<string name="offline_opt_in_decline">ទេ អរគុណ</string>
+<string name="offline_opt_in_message">យើងនឹងផ្ញើ​ការជូនដំណឹង​ដែលមាន​តំណ​ទៅកាន់​គេហទំព័ររបស់​អ្នកផ្សាយពាណិជ្ជកម្មដល់អ្នក។</string>
+<string name="offline_opt_in_title">បើក​ការផ្សាយពាណិជ្ជកម្ម នៅពេលអ្នក​មាន​ការតភ្ជាប់​អ៊ីនធឺណិតវិញ។</string>
+<string name="s1">រក្សាទុក​រូបភាព</string>
+<string name="s2">អនុញ្ញាត​ឲ្យ​ពាណិជ្ជកម្ម​ផ្ទុក​រូបភាព​នៅក្នុង​វិចិត្រសាល​រូបភាព​ដែរទេ?</string>
+<string name="s3">យល់ព្រម</string>
+<string name="s4">បដិសេធ</string>
+<string name="s5">បង្កើត​ព្រឹត្តិការណ៍​ក្នុង​ប្រតិទិន</string>
+<string name="s6">អនុញ្ញាត​ឲ្យ​ពាណិជ្ជកម្ម​បង្កើត​ព្រឹត្តិការណ៍​ក្នុង​ប្រតិទិន​ដែរទេ?</string>
+<string name="s7">ពាណិជ្ជកម្ម​សាកល្បង</string>
 </resources>

@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ru/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"Чтобы открыть его, нажмите на уведомление."</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"Вы хотели посмотреть объявление, когда были офлайн"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ОК"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"Вы получите уведомление со ссылкой, когда появится подключение к Интернету."</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"Нет, спасибо"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"Посмотрите объявление, когда будете в Сети"</string>
-<string name="s1" msgid="368094699078615544">"Сохранить изображение"</string>
-<string name="s2" msgid="4550830452390689489">"Разрешить объявлению сохранить изображение в галерее?"</string>
-<string name="s3" msgid="2435407834265420668">"Разрешить"</string>
-<string name="s4" msgid="9167523597401839819">"Отклонить"</string>
-<string name="s5" msgid="1566682516266724847">"Создать мероприятие"</string>
-<string name="s6" msgid="5996672174517137271">"Разрешить объявлению создать мероприятие в календаре?"</string>
-<string name="s7" msgid="7163549807207034258">"Тестовое объявление"</string>
+<string name="offline_notification_text">Чтобы открыть его, нажмите на уведомление.</string>
+<string name="offline_notification_title">Вы хотели посмотреть объявление, когда были офлайн</string>
+<string name="offline_opt_in_confirm">ОК</string>
+<string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда появится подключение к Интернету.</string>
+<string name="offline_opt_in_decline">Нет, спасибо</string>
+<string name="offline_opt_in_message">Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя.</string>
+<string name="offline_opt_in_title">Посмотрите объявление, когда будете в Сети</string>
+<string name="s1">Сохранить изображение</string>
+<string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
+<string name="s3">Разрешить</string>
+<string name="s4">Отклонить</string>
+<string name="s5">Создать мероприятие</string>
+<string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
+<string name="s7">Тестовое объявление</string>
 </resources>

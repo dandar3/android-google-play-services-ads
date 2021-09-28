@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-or/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"ବିଜ୍ଞାପନ ଖୋଲିବାକୁ ଟାପ୍ କରନ୍ତୁ"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"ଆପଣ ଅଫଲାଇନ୍ ଥିବା ସମୟରେ ସେଭ୍ କରିଥିବା ବିଜ୍ଞାପନ ଦେଖନ୍ତୁ"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ଠିକ୍ ଅଛି"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"ଆପଣ ପୁଣି ଅନଲାଇନ୍ ହେଲେ ଲିଙ୍କ୍ ସହ ଏକ ବିଜ୍ଞପ୍ତି ପାଇବେ"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"ନାଁ, ଥାଉ"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"ବିଜ୍ଞାପନଦାତାଙ୍କ ସାଇଟର ଏକ ଲିଙ୍କ୍ ସହ ଆମେ ଆପଣଙ୍କୁ ଏକ ବିଜ୍ଞପ୍ତି ପଠାଇବୁ।"</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"ଆପଣ ପୁଣି ଅନଲାଇନ୍ ହେଲେ ବିଜ୍ଞାପନ ଖୋଲନ୍ତୁ।"</string>
-<string name="s1" msgid="368094699078615544">"ଇମେଜ୍ ସେଭ୍‌ କରନ୍ତୁ"</string>
-<string name="s2" msgid="4550830452390689489">"ପିକ୍‌ଚର୍‌ ଗ୍ୟାଲେରୀରେ ଇମେଜ୍‌ଗୁଡ଼ିକ ଷ୍ଟୋର୍‌ କରିବା ପାଇଁ ବିଜ୍ଞାପନକୁ ଅନୁମତି ଦେବେ?"</string>
-<string name="s3" msgid="2435407834265420668">"ଗ୍ରହଣ କରନ୍ତୁ"</string>
-<string name="s4" msgid="9167523597401839819">"ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ"</string>
-<string name="s5" msgid="1566682516266724847">"କ୍ୟାଲେଣ୍ଡର୍‌ ଇଭେଣ୍ଟ ତିଆରି କରନ୍ତୁ"</string>
-<string name="s6" msgid="5996672174517137271">"ଏକ କ୍ୟାଲେଣ୍ଡର୍ ଇଭେଣ୍ଟ ତିଆରି କରିବା ପାଇଁ ବିଜ୍ଞାପନକୁ ଅନୁମତି ଦେବେ କି?"</string>
-<string name="s7" msgid="7163549807207034258">"ପରୀକ୍ଷାମୂଳକ ବିଜ୍ଞାପନ"</string>
+<string name="offline_notification_text">ବିଜ୍ଞାପନ ଖୋଲିବାକୁ ଟାପ୍ କରନ୍ତୁ</string>
+<string name="offline_notification_title">ଆପଣ ଅଫଲାଇନ୍ ଥିବା ସମୟରେ ସେଭ୍ କରିଥିବା ବିଜ୍ଞାପନ ଦେଖନ୍ତୁ</string>
+<string name="offline_opt_in_confirm">ଠିକ୍ ଅଛି</string>
+<string name="offline_opt_in_confirmation">ଆପଣ ପୁଣି ଅନଲାଇନ୍ ହେଲେ ଲିଙ୍କ୍ ସହ ଏକ ବିଜ୍ଞପ୍ତି ପାଇବେ</string>
+<string name="offline_opt_in_decline">ନାଁ, ଥାଉ</string>
+<string name="offline_opt_in_message">ବିଜ୍ଞାପନଦାତାଙ୍କ ସାଇଟର ଏକ ଲିଙ୍କ୍ ସହ ଆମେ ଆପଣଙ୍କୁ ଏକ ବିଜ୍ଞପ୍ତି ପଠାଇବୁ।</string>
+<string name="offline_opt_in_title">ଆପଣ ପୁଣି ଅନଲାଇନ୍ ହେଲେ ବିଜ୍ଞାପନ ଖୋଲନ୍ତୁ।</string>
+<string name="s1">ଇମେଜ୍ ସେଭ୍‌ କରନ୍ତୁ</string>
+<string name="s2">ପିକ୍‌ଚର୍‌ ଗ୍ୟାଲେରୀରେ ଇମେଜ୍‌ଗୁଡ଼ିକ ଷ୍ଟୋର୍‌ କରିବା ପାଇଁ ବିଜ୍ଞାପନକୁ ଅନୁମତି ଦେବେ?</string>
+<string name="s3">ଗ୍ରହଣ କରନ୍ତୁ</string>
+<string name="s4">ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ</string>
+<string name="s5">କ୍ୟାଲେଣ୍ଡର୍‌ ଇଭେଣ୍ଟ ତିଆରି କରନ୍ତୁ</string>
+<string name="s6">ଏକ କ୍ୟାଲେଣ୍ଡର୍ ଇଭେଣ୍ଟ ତିଆରି କରିବା ପାଇଁ ବିଜ୍ଞାପନକୁ ଅନୁମତି ଦେବେ କି?</string>
+<string name="s7">ପରୀକ୍ଷାମୂଳକ ବିଜ୍ଞାପନ</string>
 </resources>

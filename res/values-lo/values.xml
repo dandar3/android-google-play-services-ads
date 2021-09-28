@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-lo/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"ແຕະເພື່ອເປີດໂຄສະນາ"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"ເບິ່ງໂຄສະນາທີ່ທ່ານບັນທຶກໄວ້ຕອນທ່ານອອບລາຍ"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ຕົກລົງ"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"ທ່ານຈະໄດ້ຮັບການແຈ້ງເຕືອນພ້ອມກັບລິ້ງເມື່ອທ່ານກັບມາອອນລາຍ"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"ບໍ່, ຂອບໃຈ"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"ພວກເຮົາຈະສົ່ງການແຈ້ງເຕືອນພ້ອມກັບລິ້ງຫາເວັບໄຊຜູ້ລົງໂຄສະນາໃຫ້ທ່ານ."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"ເປີດໂຄສະນາເມື່ອທ່ານກັບມາອອນລາຍ."</string>
-<string name="s1" msgid="368094699078615544">"ບັນທຶກຮູບພາບ"</string>
-<string name="s2" msgid="4550830452390689489">"ອະນຸຍາດໃຫ້ໂຄສະນາບັນທຶກຮູບພາບໃສ່ຫ້ອງສະໝຸດພາບໄດ້ບໍ່?"</string>
-<string name="s3" msgid="2435407834265420668">"ຍອມຮັບ"</string>
-<string name="s4" msgid="9167523597401839819">"ປະຕິເສດ"</string>
-<string name="s5" msgid="1566682516266724847">"ສ້າງນັດໝາຍປະຕິທິນ"</string>
-<string name="s6" msgid="5996672174517137271">"ອະນຸຍາດໃຫ້ໂຄສະນາສ້າງນັດໝາຍປະຕິທິນໄດ້ບໍ?"</string>
-<string name="s7" msgid="7163549807207034258">"ໂຄສະນາທົດສອບ"</string>
+<string name="offline_notification_text">ແຕະເພື່ອເປີດໂຄສະນາ</string>
+<string name="offline_notification_title">ເບິ່ງໂຄສະນາທີ່ທ່ານບັນທຶກໄວ້ຕອນທ່ານອອບລາຍ</string>
+<string name="offline_opt_in_confirm">ຕົກລົງ</string>
+<string name="offline_opt_in_confirmation">ທ່ານຈະໄດ້ຮັບການແຈ້ງເຕືອນພ້ອມກັບລິ້ງເມື່ອທ່ານກັບມາອອນລາຍ</string>
+<string name="offline_opt_in_decline">ບໍ່, ຂອບໃຈ</string>
+<string name="offline_opt_in_message">ພວກເຮົາຈະສົ່ງການແຈ້ງເຕືອນພ້ອມກັບລິ້ງຫາເວັບໄຊຜູ້ລົງໂຄສະນາໃຫ້ທ່ານ.</string>
+<string name="offline_opt_in_title">ເປີດໂຄສະນາເມື່ອທ່ານກັບມາອອນລາຍ.</string>
+<string name="s1">ບັນທຶກຮູບພາບ</string>
+<string name="s2">ອະນຸຍາດໃຫ້ໂຄສະນາບັນທຶກຮູບພາບໃສ່ຫ້ອງສະໝຸດພາບໄດ້ບໍ່?</string>
+<string name="s3">ຍອມຮັບ</string>
+<string name="s4">ປະຕິເສດ</string>
+<string name="s5">ສ້າງນັດໝາຍປະຕິທິນ</string>
+<string name="s6">ອະນຸຍາດໃຫ້ໂຄສະນາສ້າງນັດໝາຍປະຕິທິນໄດ້ບໍ?</string>
+<string name="s7">ໂຄສະນາທົດສອບ</string>
 </resources>

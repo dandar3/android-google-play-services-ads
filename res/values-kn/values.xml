@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-kn/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text" msgid="4014704848104544569">"ಜಾಹೀರಾತನ್ನು ತೆರೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ"</string>
-<string name="offline_notification_title" msgid="6989673690118446590">"ನೀವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿದ್ದಾಗ ನೀವು ಉಳಿಸಿದ ಜಾಹೀರಾತನ್ನು ವೀಕ್ಷಿಸಿ"</string>
-<string name="offline_opt_in_confirm" msgid="6452552490969291315">"ಸರಿ"</string>
-<string name="offline_opt_in_confirmation" msgid="2485091187023273083">"ನೀವು ಆನ್‌ಲೈನ್‌ಗೆ ಹಿಂತಿರುಗಿದಾಗ ಲಿಂಕ್‌ನೊಂದಿಗೆ ಅಧಿಸೂಚನೆಯನ್ನು ಪಡೆಯುತ್ತೀರಿ"</string>
-<string name="offline_opt_in_decline" msgid="1070677888032715836">"ಬೇಡ"</string>
-<string name="offline_opt_in_message" msgid="5998527443747404848">"ಜಾಹೀರಾತುದಾರರ ಸೈಟ್‌ಗೆ ಲಿಂಕ್‌ನೊಂದಿಗೆ ನಾವು ನಿಮಗೆ ಅಧಿಸೂಚನೆಯನ್ನು ಕಳುಹಿಸುತ್ತೇವೆ."</string>
-<string name="offline_opt_in_title" msgid="4928666061183236333">"ನೀವು ಆನ್‌ಲೈನ್‌ಗೆ ಹಿಂತಿರುಗಿದಾಗ ಜಾಹೀರಾತನ್ನು ತೆರೆಯಿರಿ."</string>
-<string name="s1" msgid="368094699078615544">"ಚಿತ್ರ ಉಳಿಸಿ"</string>
-<string name="s2" msgid="4550830452390689489">"ಚಿತ್ರದ ಗ್ಯಾಲರಿಯಲ್ಲಿ ಚಿತ್ರ ಸಂಗ್ರಹಿಸಿಡಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?"</string>
-<string name="s3" msgid="2435407834265420668">"ಸಮ್ಮತಿಸಿ"</string>
-<string name="s4" msgid="9167523597401839819">"ನಿರಾಕರಿಸಿ"</string>
-<string name="s5" msgid="1566682516266724847">"ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಿ"</string>
-<string name="s6" msgid="5996672174517137271">"ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?"</string>
-<string name="s7" msgid="7163549807207034258">"ಪರೀಕ್ಷಾ ಜಾಹೀರಾತು"</string>
+<string name="offline_notification_text">ಜಾಹೀರಾತನ್ನು ತೆರೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+<string name="offline_notification_title">ನೀವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿದ್ದಾಗ ನೀವು ಉಳಿಸಿದ ಜಾಹೀರಾತನ್ನು ವೀಕ್ಷಿಸಿ</string>
+<string name="offline_opt_in_confirm">ಸರಿ</string>
+<string name="offline_opt_in_confirmation">ನೀವು ಆನ್‌ಲೈನ್‌ಗೆ ಹಿಂತಿರುಗಿದಾಗ ಲಿಂಕ್‌ನೊಂದಿಗೆ ಅಧಿಸೂಚನೆಯನ್ನು ಪಡೆಯುತ್ತೀರಿ</string>
+<string name="offline_opt_in_decline">ಬೇಡ</string>
+<string name="offline_opt_in_message">ಜಾಹೀರಾತುದಾರರ ಸೈಟ್‌ಗೆ ಲಿಂಕ್‌ನೊಂದಿಗೆ ನಾವು ನಿಮಗೆ ಅಧಿಸೂಚನೆಯನ್ನು ಕಳುಹಿಸುತ್ತೇವೆ.</string>
+<string name="offline_opt_in_title">ನೀವು ಆನ್‌ಲೈನ್‌ಗೆ ಹಿಂತಿರುಗಿದಾಗ ಜಾಹೀರಾತನ್ನು ತೆರೆಯಿರಿ.</string>
+<string name="s1">ಚಿತ್ರ ಉಳಿಸಿ</string>
+<string name="s2">ಚಿತ್ರದ ಗ್ಯಾಲರಿಯಲ್ಲಿ ಚಿತ್ರ ಸಂಗ್ರಹಿಸಿಡಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?</string>
+<string name="s3">ಸಮ್ಮತಿಸಿ</string>
+<string name="s4">ನಿರಾಕರಿಸಿ</string>
+<string name="s5">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಿ</string>
+<string name="s6">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?</string>
+<string name="s7">ಪರೀಕ್ಷಾ ಜಾಹೀರಾತು</string>
 </resources>
