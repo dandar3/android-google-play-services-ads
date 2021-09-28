@@ -17,8 +17,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.google.android.gms.ads.impl" 
-    android:versionCode="2030"
-    android:versionName="20.3.0">
+    android:versionCode="2040"
+    android:versionName="20.4.0">
 
     <uses-sdk
         android:minSdkVersion="16"
