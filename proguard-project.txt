@@ -14,6 +14,30 @@
 # Hence, it is safe to suppress Proguard's warnings.
 -dontwarn android.view.Surface
 
+# When built for Android API level < 31, Proguard warns that it can't find
+# android.media.ApplicationMediaCapabilities (since it was added only in API
+# level 31). But, all its usages are guarded by runtime checks of the API level.
+# Hence, it is safe to suppress Proguard's warnings.
+-dontwarn android.media.ApplicationMediaCapabilities
+
+# When built for Android API level < 31, Proguard warns that it can't find
+# android.media.MediaFeature (since it was added only in API level 31). But,
+# all its usages are guarded by runtime checks of the API level.
+# Hence, it is safe to suppress Proguard's warnings.
+-dontwarn android.media.MediaFeature
+
+# When built for Android API level < 31, Proguard warns that it can't find
+# android.media.ApplicationMediaCapabilities$Builder (since it was added only in
+# API level 31). But, all its usages are guarded by runtime checks of the API
+# level. Hence, it is safe to suppress Proguard's warnings.
+-dontwarn android.media.ApplicationMediaCapabilities$Builder
+
+# When built for Android API level < 31, Proguard warns that it can't find
+# android.media.MediaFeature$HdrType (since it was added only in API level 31).
+# But, all its usages are guarded by runtime checks of the API level.
+# Hence, it is safe to suppress Proguard's warnings.
+-dontwarn android.media.MediaFeature$HdrType
+
 # These are checked at runtime for whether they exist, so it is fine if the API level doesn't include these.
 -dontwarn android.content.pm.ApkChecksum
 -dontwarn android.content.pm.PackageManager$OnChecksumsReadyListener
@@ -23,10 +47,10 @@
 # We keep all fields for every generated proto file as the runtime uses
 # reflection over them that ProGuard cannot detect. Without this keep
 # rule, fields may be removed that would cause runtime failures.
--keepclassmembers class * extends com.google.android.gms.internal.ads.zzgeq {
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzgga {
   <fields>;
 }
 
 # Auto-generated proguard rule with obfuscated symbol
--dontwarn com.google.android.gms.ads.internal.util.zzab
+-dontwarn com.google.android.gms.ads.internal.util.zzac
 
