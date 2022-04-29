@@ -7,6 +7,7 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-browser"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-collection"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-base"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-identifier"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-lite"/>
