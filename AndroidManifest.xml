@@ -17,11 +17,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.google.android.gms.ads.impl" 
-    android:versionCode="2060"
-    android:versionName="20.6.0">
+    android:versionCode="2100"
+    android:versionName="21.0.0">
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="19"
         tools:overrideLibrary="androidx.browser" />
 
 </manifest>
