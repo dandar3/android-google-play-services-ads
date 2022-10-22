@@ -38,6 +38,12 @@
 # Hence, it is safe to suppress Proguard's warnings.
 -dontwarn android.media.MediaFeature$HdrType
 
+# When built for Android API level < 32, Proguard warns that it can't find
+# android.media.AudioAttributes$Builder (since it was added only in API level
+# 32). But, all its usages are guarded by runtime checks of the API level.
+# Hence, it is safe to suppress Proguard's warnings.
+-dontwarn android.media.AudioAttributes$Builder
+
 # These are checked at runtime for whether they exist, so it is fine if the API level doesn't include these.
 -dontwarn android.content.pm.ApkChecksum
 -dontwarn android.content.pm.PackageManager$OnChecksumsReadyListener
@@ -47,7 +53,7 @@
 # We keep all fields for every generated proto file as the runtime uses
 # reflection over them that ProGuard cannot detect. Without this keep
 # rule, fields may be removed that would cause runtime failures.
--keepclassmembers class * extends com.google.android.gms.internal.ads.zzgko {
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzgkq {
   <fields>;
 }
 
