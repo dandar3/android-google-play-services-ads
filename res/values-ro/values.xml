@@ -2,18 +2,18 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ro/strings.xml -->
 <eat-comment/>
-<string name="offline_notification_text">Atingeți pentru a deschide anunțul</string>
-<string name="offline_notification_title">Vedeți anunțul salvat când erați offline</string>
+<string name="offline_notification_text">Atinge pentru a deschide anunțul</string>
+<string name="offline_notification_title">Vezi anunțul salvat când erai offline</string>
 <string name="offline_opt_in_confirm">OK</string>
-<string name="offline_opt_in_confirmation">Veți primi o notificare cu linkul când reveniți online</string>
+<string name="offline_opt_in_confirmation">Vei primi o notificare cu linkul când revii online</string>
 <string name="offline_opt_in_decline">Nu</string>
-<string name="offline_opt_in_message">Vă vom trimite o notificare cu un link la site-ul advertiserului.</string>
-<string name="offline_opt_in_title">Deschideți anunțul când reveniți online.</string>
-<string name="s1">Salvați imaginea</string>
-<string name="s2">Permiteți ca anunțul să stocheze imaginea în Galeria de fotografii?</string>
-<string name="s3">Acceptați</string>
-<string name="s4">Refuzați</string>
-<string name="s5">Creați un eveniment în calendar</string>
-<string name="s6">Permiteți ca anunțul să creeze un eveniment în calendar?</string>
+<string name="offline_opt_in_message">Îți vom trimite o notificare cu un link la site-ul advertiserului.</string>
+<string name="offline_opt_in_title">Deschide anunțul când revii online.</string>
+<string name="s1">Salvează imaginea</string>
+<string name="s2">Permiți ca anunțul să stocheze imaginea în Galeria de fotografii?</string>
+<string name="s3">Acceptă</string>
+<string name="s4">Refuză</string>
+<string name="s5">Creează un eveniment în calendar</string>
+<string name="s6">Permiți ca anunțul să creeze un eveniment în calendar?</string>
 <string name="s7">Anunț de probă</string>
 </resources>
