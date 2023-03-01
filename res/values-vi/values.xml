@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-vi/strings.xml -->
 <eat-comment/>
+<string name="native_body">Nội dung</string>
+<string name="native_headline">Tiêu đề</string>
+<string name="native_media_view">Nội dung nghe nhìn</string>
 <string name="offline_notification_text">Nhấn để mở quảng cáo</string>
 <string name="offline_notification_title">Xem quảng cáo đã lưu khi bạn không có kết nối mạng</string>
 <string name="offline_opt_in_confirm">OK</string>

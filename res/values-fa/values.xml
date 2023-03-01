@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-fa/strings.xml -->
 <eat-comment/>
+<string name="native_body">نوشتار اصلی</string>
+<string name="native_headline">سرخط</string>
+<string name="native_media_view">بازدید از رسانه</string>
 <string name="offline_notification_text">برای باز کردن آگهی، ضربه بزنید</string>
 <string name="offline_notification_title">مشاهده آگهی‌ای که هنگام آفلاین بودن ذخیره کردید</string>
 <string name="offline_opt_in_confirm">تأیید</string>

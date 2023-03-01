@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-km/strings.xml -->
 <eat-comment/>
+<string name="native_body">តួ​អត្ថបទ</string>
+<string name="native_headline">ចំណង​ជើង</string>
+<string name="native_media_view">ទិដ្ឋភាពមេឌៀ</string>
 <string name="offline_notification_text">ចុចដើម្បីបើក​ការផ្សាយពាណិជ្ជកម្ម</string>
 <string name="offline_notification_title">មើល​ការផ្សាយពាណិជ្ជកម្ម​ដែលអ្នកបានរក្សាទុក នៅពេលអ្នកគ្មានអ៊ីនធឺណិត</string>
 <string name="offline_opt_in_confirm">យល់ព្រម</string>

@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-sk/strings.xml -->
 <eat-comment/>
+<string name="native_body">Text</string>
+<string name="native_headline">Nadpis</string>
+<string name="native_media_view">Zobrazenie média</string>
 <string name="offline_notification_text">Klepnutím otvoriť reklamu</string>
 <string name="offline_notification_title">Zobrazte si reklamu, ktorú ste uložili v režime offline</string>
 <string name="offline_opt_in_confirm">OK</string>

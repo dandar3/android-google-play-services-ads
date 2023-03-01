@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-am/strings.xml -->
 <eat-comment/>
+<string name="native_body">አካል</string>
+<string name="native_headline">ዋና ርዕስ</string>
+<string name="native_media_view">የሚዲያ እይታ</string>
 <string name="offline_notification_text">ማስታወቂያን ለመክፈት መታ ያድርጉ</string>
 <string name="offline_notification_title">ከመስመር ውጭ ሲሆኑ ያስቀመጡትን ማስታወቂያ ይመልከቱ</string>
 <string name="offline_opt_in_confirm">እሺ</string>

@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ro/strings.xml -->
 <eat-comment/>
+<string name="native_body">Conținut</string>
+<string name="native_headline">Titlu</string>
+<string name="native_media_view">Afișarea fișierului media</string>
 <string name="offline_notification_text">Atinge pentru a deschide anunțul</string>
 <string name="offline_notification_title">Vezi anunțul salvat când erai offline</string>
 <string name="offline_opt_in_confirm">OK</string>

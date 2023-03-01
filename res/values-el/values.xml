@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-el/strings.xml -->
 <eat-comment/>
+<string name="native_body">Σώμα</string>
+<string name="native_headline">Τίτλος</string>
+<string name="native_media_view">Προβολή μέσων</string>
 <string name="offline_notification_text">Πατήστε για να ανοίξετε τη διαφήμιση.</string>
 <string name="offline_notification_title">Δείτε τη διαφήμιση που αποθηκεύσατε ενώ ήσασταν εκτός σύνδεσης</string>
 <string name="offline_opt_in_confirm">ΟΚ</string>

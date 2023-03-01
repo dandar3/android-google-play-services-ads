@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-is/strings.xml -->
 <eat-comment/>
+<string name="native_body">Meginmál</string>
+<string name="native_headline">Fyrirsögn</string>
+<string name="native_media_view">Myndskoðun</string>
 <string name="offline_notification_text">Pikkaðu til að opna auglýsingu</string>
 <string name="offline_notification_title">Skoða auglýsinguna sem þú vistaðir án nettengingar</string>
 <string name="offline_opt_in_confirm">Í lagi</string>

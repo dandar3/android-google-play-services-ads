@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-pa/strings.xml -->
 <eat-comment/>
+<string name="native_body">ਮੁੱਖ ਹਿੱਸਾ</string>
+<string name="native_headline">ਸੁਰਖੀ</string>
+<string name="native_media_view">ਮੀਡੀਆ ਵਿਊ</string>
 <string name="offline_notification_text">ਵਿਗਿਆਪਨ ਖੋਲ੍ਹਣ ਲਈ ਟੈਪ ਕਰੋ</string>
 <string name="offline_notification_title">ਤੁਹਾਡੇ ਵੱਲੋਂ ਆਫ਼ਲਾਈਨ ਹੋਣ ਦੌਰਾਨ ਰੱਖਿਅਤ ਕੀਤੇ ਵਿਗਿਆਪਨ ਦੇਖੋ</string>
 <string name="offline_opt_in_confirm">ਠੀਕ ਹੈ</string>

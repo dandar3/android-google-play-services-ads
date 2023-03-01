@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-tr/strings.xml -->
 <eat-comment/>
+<string name="native_body">Metin</string>
+<string name="native_headline">Başlık</string>
+<string name="native_media_view">Medya Görünümü</string>
 <string name="offline_notification_text">Reklamı açmak için dokunun</string>
 <string name="offline_notification_title">Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</string>
 <string name="offline_opt_in_confirm">Tamam</string>

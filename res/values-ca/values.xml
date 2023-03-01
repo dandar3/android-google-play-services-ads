@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ca/strings.xml -->
 <eat-comment/>
+<string name="native_body">Cos</string>
+<string name="native_headline">Títol</string>
+<string name="native_media_view">Visualització del contingut multimèdia</string>
 <string name="offline_notification_text">Toca per obrir l\'anunci</string>
 <string name="offline_notification_title">Mira l\'anunci que has desat sense connexió</string>
 <string name="offline_opt_in_confirm">D\'acord</string>

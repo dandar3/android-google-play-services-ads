@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-lo/strings.xml -->
 <eat-comment/>
+<string name="native_body">ສ່ວນເນື້ອຫາ</string>
+<string name="native_headline">ຫົວຂໍ້</string>
+<string name="native_media_view">ມຸມມອງມີເດຍ</string>
 <string name="offline_notification_text">ແຕະເພື່ອເປີດໂຄສະນາ</string>
 <string name="offline_notification_title">ເບິ່ງໂຄສະນາທີ່ທ່ານບັນທຶກໄວ້ຕອນທ່ານອອບລາຍ</string>
 <string name="offline_opt_in_confirm">ຕົກລົງ</string>

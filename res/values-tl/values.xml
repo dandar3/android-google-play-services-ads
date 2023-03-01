@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-tl/strings.xml -->
 <eat-comment/>
+<string name="native_body">Nilalaman</string>
+<string name="native_headline">Headline</string>
+<string name="native_media_view">View ng Media</string>
 <string name="offline_notification_text">I-tap para buksan ang ad</string>
 <string name="offline_notification_title">Tingnan ang ad na na-save mo noong offline ka</string>
 <string name="offline_opt_in_confirm">OK</string>

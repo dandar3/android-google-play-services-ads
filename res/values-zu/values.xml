@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-zu/strings.xml -->
 <eat-comment/>
+<string name="native_body">Umzimba</string>
+<string name="native_headline">Isihlokwana</string>
+<string name="native_media_view">Ukubukwa kwemidiya</string>
 <string name="offline_notification_text">Thepha ukuze uvule isikhangiso</string>
 <string name="offline_notification_title">Buka isikhangiso osilondoloze lapho ungaxhunyiwe kwi-inthanethi</string>
 <string name="offline_opt_in_confirm">KULUNGILE</string>

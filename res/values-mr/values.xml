@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-mr/strings.xml -->
 <eat-comment/>
+<string name="native_body">मुख्य भाग</string>
+<string name="native_headline">ठळक शीर्षक</string>
+<string name="native_media_view">मीडिया व्ह्यू</string>
 <string name="offline_notification_text">जाहिरात उघडण्यासाठी टॅप करा</string>
 <string name="offline_notification_title">तुम्ही ऑफलाइन असताना तुम्ही सेव्ह केलेली जाहिरात पहा</string>
 <string name="offline_opt_in_confirm">ओके</string>

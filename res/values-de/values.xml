@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-de/strings.xml -->
 <eat-comment/>
+<string name="native_body">Text</string>
+<string name="native_headline">Anzeigentitel</string>
+<string name="native_media_view">Medienansicht</string>
 <string name="offline_notification_text">Tippen, um die Werbung zu öffnen</string>
 <string name="offline_notification_title">Werbung anzeigen, die du gespeichert hast, während du offline warst</string>
 <string name="offline_opt_in_confirm">OK</string>

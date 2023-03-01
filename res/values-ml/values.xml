@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ml/strings.xml -->
 <eat-comment/>
+<string name="native_body">ബോഡി</string>
+<string name="native_headline">തലക്കെട്ട്</string>
+<string name="native_media_view">മീഡിയ വ്യൂ</string>
 <string name="offline_notification_text">പരസ്യം തുറക്കാൻ ടാപ്പ് ചെയ്യുക</string>
 <string name="offline_notification_title">നിങ്ങൾ ഓഫ്‌ലൈനിൽ ആയിരുന്നപ്പോൾ സംരക്ഷിച്ച പരസ്യം കാണുക</string>
 <string name="offline_opt_in_confirm">ശരി</string>

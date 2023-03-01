@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-kk/strings.xml -->
 <eat-comment/>
+<string name="native_body">Негізгі мәтіні</string>
+<string name="native_headline">Тақырыбы</string>
+<string name="native_media_view">Медиа көрінісі</string>
 <string name="offline_notification_text">Жарнаманы ашу үшін түртіңіз.</string>
 <string name="offline_notification_title">Офлайн режимге өткенде, сақталған жарнамаңызды көріңіз</string>
 <string name="offline_opt_in_confirm">Жарайды</string>

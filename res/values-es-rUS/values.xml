@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-es-rUS/strings.xml -->
 <eat-comment/>
+<string name="native_body">Cuerpo</string>
+<string name="native_headline">Título</string>
+<string name="native_media_view">Vista del contenido multimedia</string>
 <string name="offline_notification_text">Presiona para abrir el anuncio</string>
 <string name="offline_notification_title">Mira el anuncio que guardaste cuando no tenías conexión</string>
 <string name="offline_opt_in_confirm">Aceptar</string>

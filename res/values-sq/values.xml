@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-sq/strings.xml -->
 <eat-comment/>
+<string name="native_body">Teksti</string>
+<string name="native_headline">Titulli</string>
+<string name="native_media_view">Pamja e medias</string>
 <string name="offline_notification_text">Trokit për të hapur reklamën</string>
 <string name="offline_notification_title">Shiko reklamën që ruajte kur ishe jashtë linje</string>
 <string name="offline_opt_in_confirm">Në rregull</string>

@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-uz/strings.xml -->
 <eat-comment/>
+<string name="native_body">Matni</string>
+<string name="native_headline">Sarlavha</string>
+<string name="native_media_view">Mediani koʻrish</string>
 <string name="offline_notification_text">Reklamani ochish uchun bosing</string>
 <string name="offline_notification_title">Siz saqlagan reklamani oflaynda oching</string>
 <string name="offline_opt_in_confirm">OK</string>

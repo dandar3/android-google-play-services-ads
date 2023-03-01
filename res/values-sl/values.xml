@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-sl/strings.xml -->
 <eat-comment/>
+<string name="native_body">Telo</string>
+<string name="native_headline">Naslov</string>
+<string name="native_media_view">Ogled predstavnosti</string>
 <string name="offline_notification_text">Dotaknite se, če želite odpreti oglas</string>
 <string name="offline_notification_title">Oglejte si oglas, ki ste shranili, ko ste bili brez povezave</string>
 <string name="offline_opt_in_confirm">V redu</string>

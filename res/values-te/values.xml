@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-te/strings.xml -->
 <eat-comment/>
+<string name="native_body">విషయం</string>
+<string name="native_headline">హెడ్‌లైన్</string>
+<string name="native_media_view">మీడియా వ్యూ</string>
 <string name="offline_notification_text">యాడ్‌ను తెరవడానికి ట్యాప్ చేయండి</string>
 <string name="offline_notification_title">మీరు ఆఫ్‌లైన్‌లో ఉన్నప్పుడు కూడా, సేవ్ చేసిన యాడ్‌ను చూడండి</string>
 <string name="offline_opt_in_confirm">సరే</string>

@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-hy/strings.xml -->
 <eat-comment/>
+<string name="native_body">Հիմնական տեքստ</string>
+<string name="native_headline">Վերնագիր</string>
+<string name="native_media_view">Մեդիա տեսք</string>
 <string name="offline_notification_text">Հպեք՝ հայտարարությունը բացելու համար</string>
 <string name="offline_notification_title">Դիտեք հայտարարությունը, որը պահել եք անցանց ռեժիմում</string>
 <string name="offline_opt_in_confirm">Եղավ</string>

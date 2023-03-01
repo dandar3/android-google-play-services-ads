@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-in/strings.xml -->
 <eat-comment/>
+<string name="native_body">Isi</string>
+<string name="native_headline">Judul</string>
+<string name="native_media_view">Tampilan Media</string>
 <string name="offline_notification_text">Ketuk untuk membuka iklan</string>
 <string name="offline_notification_title">Lihat iklan yang Anda simpan ketika offline</string>
 <string name="offline_opt_in_confirm">Oke</string>

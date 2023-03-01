@@ -1,26 +1,34 @@
-<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-<!-- java/com/google/android/gmscore/integ/client/admob-impl/res/values/strings.xml -->
-<eat-comment/>
-<string name="offline_notification_text" description="Text of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]">
+    <eat-comment/>
+    <string name="native_body" description="This string appears within a window that describes an ad's contents. It indicates that the following text would be the body field (textual content) of the native ad. [CHAR_LIMIT=NONE]">
+    Body
+  </string>
+    <string name="native_headline" description="This string appears within a window that describes an ad's contents. It indicates that the following text would be the headline field (title) of the native ad. [CHAR_LIMIT=NONE]">
+    Headline
+  </string>
+    <string name="native_media_view" description="This string appears within a window that describes an ad's contents. It indicates that the following image / video would be the media view field (graphical content) of the native ad. [CHAR_LIMIT=NONE]">
+    Media View
+  </string>
+    <string name="offline_notification_text" description="Text of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]">
       Tap to open ad</string>
-<string name="offline_notification_title" description="Title of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]">
+    <string name="offline_notification_title" description="Title of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]">
       View the ad you saved when you were offline</string>
-<string name="offline_opt_in_confirm" description="Label on the button to opt in to a notification later when the user is back online. [CHAR_LIMIT=12]">
+    <string name="offline_opt_in_confirm" description="Label on the button to opt in to a notification later when the user is back online. [CHAR_LIMIT=12]">
       OK</string>
-<string name="offline_opt_in_confirmation" description="Confirmation text displayed when the user opts in to get a notification. [CHAR_LIMIT=NONE]">
+    <string name="offline_opt_in_confirmation" description="Confirmation text displayed when the user opts in to get a notification. [CHAR_LIMIT=NONE]">
       You\'ll get a notification with the link when you\'re back online</string>
-<string name="offline_opt_in_decline" description="Label on the button to decline to get a notification later when the user is back online. [CHAR_LIMIT=12]">
+    <string name="offline_opt_in_decline" description="Label on the button to decline to get a notification later when the user is back online. [CHAR_LIMIT=12]">
       No thanks</string>
-<string name="offline_opt_in_message" description="Body of the dialog presented when an ad is clicked while offline. [CHAR_LIMIT=NONE]">
+    <string name="offline_opt_in_message" description="Body of the dialog presented when an ad is clicked while offline. [CHAR_LIMIT=NONE]">
       We\'ll send you a notification with a link to the advertiser site.</string>
-<string name="offline_opt_in_title" description="Title of the dialog presented when an ad is clicked while offline. [CHAR_LIMIT=NONE]">
+    <string name="offline_opt_in_title" description="Title of the dialog presented when an ad is clicked while offline. [CHAR_LIMIT=NONE]">
       Open ad when you\'re back online.</string>
-<string name="s1">Save image</string>
-<string name="s2">"Allow Ad to store image in Picture gallery?"</string>
-<string name="s3">Accept</string>
-<string name="s4">Decline</string>
-<string name="s5">Create calendar event</string>
-<string name="s6">Allow Ad to create a calendar event?</string>
-<string name="s7">Test Ad</string>
+    <string name="s1">Save image</string>
+    <string name="s2">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
 </resources>

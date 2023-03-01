@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-mn/strings.xml -->
 <eat-comment/>
+<string name="native_body">Үндсэн хэсэг</string>
+<string name="native_headline">Толгой гарчиг</string>
+<string name="native_media_view">Медиа Харагдац</string>
 <string name="offline_notification_text">Зарыг нээхийн тулд товшино уу</string>
 <string name="offline_notification_title">Та офлайн байхдаа хадгалсан зараа үзэх</string>
 <string name="offline_opt_in_confirm">ОК</string>

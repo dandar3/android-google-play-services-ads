@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-et/strings.xml -->
 <eat-comment/>
+<string name="native_body">Sisu</string>
+<string name="native_headline">Pealkiri</string>
+<string name="native_media_view">Meediavaade</string>
 <string name="offline_notification_text">Puudutage reklaami avamiseks</string>
 <string name="offline_notification_title">Vaadake reklaami, mille salvestasite siis, kui teil puudus võrguühendus</string>
 <string name="offline_opt_in_confirm">OK</string>

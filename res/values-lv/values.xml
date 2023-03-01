@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-lv/strings.xml -->
 <eat-comment/>
+<string name="native_body">Pamatteksts</string>
+<string name="native_headline">Virsraksts</string>
+<string name="native_media_view">Multivides skats</string>
 <string name="offline_notification_text">Pieskarieties, lai atvērtu reklāmu</string>
 <string name="offline_notification_title">Skatiet reklāmu, ko saglabājāt bezsaistē</string>
 <string name="offline_opt_in_confirm">Labi</string>

@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ja/strings.xml -->
 <eat-comment/>
+<string name="native_body">本文</string>
+<string name="native_headline">見出し</string>
+<string name="native_media_view">メディアビュー</string>
 <string name="offline_notification_text">タップすると広告を表示します</string>
 <string name="offline_notification_title">オフライン時に保存した広告を表示します</string>
 <string name="offline_opt_in_confirm">OK</string>

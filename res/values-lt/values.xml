@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-lt/strings.xml -->
 <eat-comment/>
+<string name="native_body">Tekstas</string>
+<string name="native_headline">Antraštė</string>
+<string name="native_media_view">Medijos rodinys</string>
 <string name="offline_notification_text">Palieskite, kad atidarytumėte skelbimą</string>
 <string name="offline_notification_title">Peržiūrėkite skelbimą, kurį išsaugojote būdami neprisijungę</string>
 <string name="offline_opt_in_confirm">Gerai</string>

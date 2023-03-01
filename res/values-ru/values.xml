@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ru/strings.xml -->
 <eat-comment/>
+<string name="native_body">Текст</string>
+<string name="native_headline">Заголовок</string>
+<string name="native_media_view">Просмотр мультимедиа</string>
 <string name="offline_notification_text">Чтобы открыть его, нажмите на уведомление.</string>
 <string name="offline_notification_title">Вы хотели посмотреть объявление, когда были офлайн</string>
 <string name="offline_opt_in_confirm">ОК</string>

@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-ne/strings.xml -->
 <eat-comment/>
+<string name="native_body">मुख्य भाग</string>
+<string name="native_headline">शीर्षक</string>
+<string name="native_media_view">मिडिया दृश्य</string>
 <string name="offline_notification_text">विज्ञापन खोल्न ट्याप गर्नुहोस्</string>
 <string name="offline_notification_title">आफूले अफलाइन हुँदा सुरक्षित गरेको विज्ञापन हेर्नुहोस्</string>
 <string name="offline_opt_in_confirm">ठिक छ</string>

@@ -2,6 +2,9 @@
 <resources>
 <!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-sv/strings.xml -->
 <eat-comment/>
+<string name="native_body">Brödtext</string>
+<string name="native_headline">Rubrik</string>
+<string name="native_media_view">Medievisning</string>
 <string name="offline_notification_text">Tryck för att öppna annonsen</string>
 <string name="offline_notification_title">Se annonsen som du sparade när du var offline</string>
 <string name="offline_opt_in_confirm">OK</string>
