@@ -5,6 +5,9 @@
 <string name="native_body">Umzimba</string>
 <string name="native_headline">Isihlokwana</string>
 <string name="native_media_view">Ukubukwa kwemidiya</string>
+<string name="notifications_permission_confirm">Vumela</string>
+<string name="notifications_permission_decline">Ungavumeli</string>
+<string name="notifications_permission_title">Vumela i-app ukuthi ikuthumelele izaziso?</string>
 <string name="offline_notification_text">Thepha ukuze uvule isikhangiso</string>
 <string name="offline_notification_title">Buka isikhangiso osilondoloze lapho ungaxhunyiwe kwi-inthanethi</string>
 <string name="offline_opt_in_confirm">KULUNGILE</string>

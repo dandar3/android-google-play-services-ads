@@ -5,6 +5,9 @@
 <string name="native_body">Tekstiosa</string>
 <string name="native_headline">Otsikko</string>
 <string name="native_media_view">Medianäkymä</string>
+<string name="notifications_permission_confirm">Salli</string>
+<string name="notifications_permission_decline">Älä salli</string>
+<string name="notifications_permission_title">Haluatko sallia sovellusilmoitukset?</string>
 <string name="offline_notification_text">Avaa mainos napauttamalla</string>
 <string name="offline_notification_title">Katso mainos, jonka tallensit ollessasi offline-tilassa</string>
 <string name="offline_opt_in_confirm">OK</string>

@@ -5,6 +5,9 @@
 <string name="native_body">Text</string>
 <string name="native_headline">Nadpis</string>
 <string name="native_media_view">Zobrazení mediálního souboru</string>
+<string name="notifications_permission_confirm">Povolit</string>
+<string name="notifications_permission_decline">Nepovolovat</string>
+<string name="notifications_permission_title">Chcete, aby vám aplikace zasílala oznámení?</string>
 <string name="offline_notification_text">Klepnutím reklamu otevřete</string>
 <string name="offline_notification_title">Zobrazte reklamu, kterou jste si uložili, když jste byli offline</string>
 <string name="offline_opt_in_confirm">OK</string>

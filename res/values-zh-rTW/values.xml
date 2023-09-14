@@ -5,6 +5,9 @@
 <string name="native_body">內文</string>
 <string name="native_headline">標題</string>
 <string name="native_media_view">媒體檢視</string>
+<string name="notifications_permission_confirm">允許</string>
+<string name="notifications_permission_decline">不允許</string>
+<string name="notifications_permission_title">允許應用程式傳送通知給你嗎？</string>
 <string name="offline_notification_text">輕觸即可開啟廣告</string>
 <string name="offline_notification_title">查看你在離線時儲存的廣告</string>
 <string name="offline_opt_in_confirm">確定</string>

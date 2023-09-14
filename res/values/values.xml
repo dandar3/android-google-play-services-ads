@@ -10,6 +10,12 @@
     <string name="native_media_view" description="This string appears within a window that describes an ad's contents. It indicates that the following image / video would be the media view field (graphical content) of the native ad. [CHAR_LIMIT=NONE]">
     Media View
   </string>
+    <string name="notifications_permission_confirm" description="Label on the button to go to settings. [CHAR_LIMIT=20]">
+      Allow</string>
+    <string name="notifications_permission_decline" description="Label on the button to decline going to settings. [CHAR_LIMIT=20]">
+      Don\'t allow</string>
+    <string name="notifications_permission_title" description="Body of the dialog presented when an ad wants to grant notifications permission. [CHAR_LIMIT=NONE]">
+      Allow app to send you notifications?</string>
     <string name="offline_notification_text" description="Text of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]">
       Tap to open ad</string>
     <string name="offline_notification_title" description="Title of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]">

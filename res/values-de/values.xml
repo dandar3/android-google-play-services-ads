@@ -5,6 +5,9 @@
 <string name="native_body">Text</string>
 <string name="native_headline">Anzeigentitel</string>
 <string name="native_media_view">Medienansicht</string>
+<string name="notifications_permission_confirm">Zulassen</string>
+<string name="notifications_permission_decline">Nicht zulassen</string>
+<string name="notifications_permission_title">App-Benachrichtigungen zulassen?</string>
 <string name="offline_notification_text">Tippen, um die Werbung zu öffnen</string>
 <string name="offline_notification_title">Werbung anzeigen, die du gespeichert hast, während du offline warst</string>
 <string name="offline_opt_in_confirm">OK</string>

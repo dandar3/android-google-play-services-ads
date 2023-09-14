@@ -5,6 +5,9 @@
 <string name="native_body">Основен текст</string>
 <string name="native_headline">Заглавие</string>
 <string name="native_media_view">Преглед на мултимедийния файл</string>
+<string name="notifications_permission_confirm">Разрешаване</string>
+<string name="notifications_permission_decline">Забраняване</string>
+<string name="notifications_permission_title">Разрешавате ли на приложението да ви изпраща известия?</string>
 <string name="offline_notification_text">Докоснете, за да отворите рекламата</string>
 <string name="offline_notification_title">Прегледайте рекламата, която запазихте, докато бяхте офлайн</string>
 <string name="offline_opt_in_confirm">ОК</string>

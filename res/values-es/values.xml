@@ -5,6 +5,9 @@
 <string name="native_body">Cuerpo</string>
 <string name="native_headline">Título</string>
 <string name="native_media_view">Vista del contenido multimedia</string>
+<string name="notifications_permission_confirm">Permitir</string>
+<string name="notifications_permission_decline">No permitir</string>
+<string name="notifications_permission_title">¿Permitir que la aplicación te envíe notificaciones?</string>
 <string name="offline_notification_text">Toca para abrir el anuncio</string>
 <string name="offline_notification_title">Mira el anuncio guardado cuando no tenías conexión</string>
 <string name="offline_opt_in_confirm">Aceptar</string>

@@ -5,6 +5,9 @@
 <string name="native_body">본문</string>
 <string name="native_headline">광고 제목</string>
 <string name="native_media_view">미디어 보기</string>
+<string name="notifications_permission_confirm">허용</string>
+<string name="notifications_permission_decline">허용 안함</string>
+<string name="notifications_permission_title">앱에서 알림을 보내도록 허용하시겠습니까?</string>
 <string name="offline_notification_text">광고를 열려면 탭하세요.</string>
 <string name="offline_notification_title">오프라인 상태에서 저장한 광고 보기</string>
 <string name="offline_opt_in_confirm">확인</string>

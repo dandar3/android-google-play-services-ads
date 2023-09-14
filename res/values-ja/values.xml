@@ -5,6 +5,9 @@
 <string name="native_body">本文</string>
 <string name="native_headline">見出し</string>
 <string name="native_media_view">メディアビュー</string>
+<string name="notifications_permission_confirm">許可</string>
+<string name="notifications_permission_decline">許可しない</string>
+<string name="notifications_permission_title">通知の送信をアプリに許可しますか？</string>
 <string name="offline_notification_text">タップすると広告を表示します</string>
 <string name="offline_notification_title">オフライン時に保存した広告を表示します</string>
 <string name="offline_opt_in_confirm">OK</string>

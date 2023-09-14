@@ -5,6 +5,9 @@
 <string name="native_body">Törzs</string>
 <string name="native_headline">Címsor</string>
 <string name="native_media_view">Médianézet</string>
+<string name="notifications_permission_confirm">Engedélyezés</string>
+<string name="notifications_permission_decline">Tiltás</string>
+<string name="notifications_permission_title">Engedélyezi, hogy az alkalmazás értesítéseket küldjön Önnek?</string>
 <string name="offline_notification_text">Koppintson a hirdetés megnyitásához</string>
 <string name="offline_notification_title">Az offline mentett hirdetés megtekintése</string>
 <string name="offline_opt_in_confirm">OK</string>

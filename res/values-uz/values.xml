@@ -5,6 +5,9 @@
 <string name="native_body">Matni</string>
 <string name="native_headline">Sarlavha</string>
 <string name="native_media_view">Mediani koʻrish</string>
+<string name="notifications_permission_confirm">Ruxsat</string>
+<string name="notifications_permission_decline">Ruxsat berilmasin</string>
+<string name="notifications_permission_title">Ilovaga bildirishnomalar yuborish uchun ruxsat berilsinmi?</string>
 <string name="offline_notification_text">Reklamani ochish uchun bosing</string>
 <string name="offline_notification_title">Siz saqlagan reklamani oflaynda oching</string>
 <string name="offline_opt_in_confirm">OK</string>

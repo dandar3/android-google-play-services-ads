@@ -5,6 +5,9 @@
 <string name="native_body">Tekst</string>
 <string name="native_headline">Naslov</string>
 <string name="native_media_view">Prikaz medija</string>
+<string name="notifications_permission_confirm">Dozvoli</string>
+<string name="notifications_permission_decline">Nemoj dozvoliti</string>
+<string name="notifications_permission_title">Dozvoliti aplikaciji da vam šalje obavještenja?</string>
 <string name="offline_notification_text">Dodirnite da otvorite oglas</string>
 <string name="offline_notification_title">Pogledajte sačuvani oglas kada ponovo budete online</string>
 <string name="offline_opt_in_confirm">UREDU</string>
