@@ -19,4 +19,5 @@
 <string name="s5">Skep kalendergeleentheid</string>
 <string name="s6">Laat advertensie toe om \'n kalendergeleentheid te skep?</string>
 <string name="s7">Toetsadvertensie</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

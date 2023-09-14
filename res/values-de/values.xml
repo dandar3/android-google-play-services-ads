@@ -19,4 +19,5 @@
 <string name="s5">Kalendertermin erstellen</string>
 <string name="s6">Der Werbeanzeige erlauben, einen Kalendertermin zu erstellen?</string>
 <string name="s7">Testanzeige</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

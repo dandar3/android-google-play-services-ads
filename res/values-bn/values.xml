@@ -19,4 +19,5 @@
 <string name="s5">ক্যালেন্ডার ইভেন্ট তৈরি করুন</string>
 <string name="s6">বিজ্ঞাপনকে একটি ক্যালেন্ডার ইভেন্ট তৈরি করার অনুমতি দেবেন?</string>
 <string name="s7">পরীক্ষামূলক বিজ্ঞাপন</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

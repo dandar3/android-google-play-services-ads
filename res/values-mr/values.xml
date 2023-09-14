@@ -19,4 +19,5 @@
 <string name="s5">कॅलेंडर इव्हेंट तयार करा</string>
 <string name="s6">जाहिरातीस कॅलेंडर इव्हेंट तयार करण्याची परवानगी द्यायची?</string>
 <string name="s7">चाचणी जाहिरात</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

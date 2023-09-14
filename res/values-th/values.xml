@@ -19,4 +19,5 @@
 <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
 <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
 <string name="s7">โฆษณาทดสอบ</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

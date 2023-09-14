@@ -19,4 +19,5 @@
 <string name="s5">දින දර්ශන සිදුවීම සාදන්න</string>
 <string name="s6">වෙළඳ දැන්වීමට දින දර්ශන සිදුවීමක් සෑදීමට ඉඩ දෙන්නද?</string>
 <string name="s7">පරීක්ෂණ වෙළඳ දැන්වීම</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

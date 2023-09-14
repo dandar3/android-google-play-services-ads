@@ -19,4 +19,5 @@
 <string name="s5">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಿ</string>
 <string name="s6">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?</string>
 <string name="s7">ಪರೀಕ್ಷಾ ಜಾಹೀರಾತು</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

@@ -19,4 +19,5 @@
 <string name="s5">Kalendāra pasākuma izveide</string>
 <string name="s6">Vai atļaut reklāmai izveidot kalendāra pasākumu?</string>
 <string name="s7">Testa reklāma</string>
+<string name="watermark_label_prefix">AdMob — </string>
 </resources>

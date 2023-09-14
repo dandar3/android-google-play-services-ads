@@ -19,4 +19,5 @@
 <string name="s5">Takvim etkinliği oluştur</string>
 <string name="s6">Reklamın, takvim etkinliği oluşturmasına izin verilsin mi?</string>
 <string name="s7">Test Reklamı</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

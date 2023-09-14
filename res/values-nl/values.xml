@@ -19,4 +19,5 @@
 <string name="s5">Agenda-afspraak maken</string>
 <string name="s6">Advertentie toestaan om een agenda-afspraak te maken?</string>
 <string name="s7">Testadvertentie</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

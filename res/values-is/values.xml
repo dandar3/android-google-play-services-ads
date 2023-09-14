@@ -19,4 +19,5 @@
 <string name="s5">Búa til dagatalsviðburð</string>
 <string name="s6">Leyfa auglýsingu að búa til dagatalsviðburð?</string>
 <string name="s7">Prófa auglýsingu</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

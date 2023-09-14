@@ -19,4 +19,5 @@
 <string name="s5">கேலெண்டர் நிகழ்வை உருவாக்கு</string>
 <string name="s6">கேலெண்டர் நிகழ்வை உருவாக்க, விளம்பரத்தை அனுமதிக்கவா?</string>
 <string name="s7">சோதனை விளம்பரம்</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

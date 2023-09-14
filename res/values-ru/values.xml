@@ -19,4 +19,5 @@
 <string name="s5">Создать мероприятие</string>
 <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
 <string name="s7">Тестовое объявление</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

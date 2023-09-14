@@ -19,4 +19,5 @@
 <string name="s5">캘린더 일정 만들기</string>
 <string name="s6">광고에서 캘린더 일정을 만들도록 허용하시겠습니까?</string>
 <string name="s7">테스트 광고</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

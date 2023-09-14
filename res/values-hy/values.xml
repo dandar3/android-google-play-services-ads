@@ -19,4 +19,5 @@
 <string name="s5">Ստեղծել օրացույցի միջոցառում</string>
 <string name="s6">Թույլատրե՞լ Գովազդին ստեղծել օրացույցի միջոցառում:</string>
 <string name="s7">Փորձարկել գովազդը</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

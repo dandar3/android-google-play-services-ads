@@ -19,4 +19,5 @@
 <string name="s5">Təqvim tədbiri yaradın</string>
 <string name="s6">Təqvim tədbiri yaratmaq üçün Reklama icazə verilsin?</string>
 <string name="s7">Test Reklamı</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

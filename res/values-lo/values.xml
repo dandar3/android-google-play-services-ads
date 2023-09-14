@@ -19,4 +19,5 @@
 <string name="s5">ສ້າງນັດໝາຍປະຕິທິນ</string>
 <string name="s6">ອະນຸຍາດໃຫ້ໂຄສະນາສ້າງນັດໝາຍປະຕິທິນໄດ້ບໍ?</string>
 <string name="s7">ໂຄສະນາທົດສອບ</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

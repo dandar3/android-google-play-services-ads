@@ -19,4 +19,5 @@
 <string name="s5">Opprett kalenderaktivitet</string>
 <string name="s6">Vil du la annonsen opprette en kalenderaktivitet?</string>
 <string name="s7">Testannonse</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

@@ -19,4 +19,5 @@
 <string name="s5">Vytvoření události kalendáře</string>
 <string name="s6">Povolit reklamě, aby vytvořila událost kalendáře?</string>
 <string name="s7">Zkušební reklama</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

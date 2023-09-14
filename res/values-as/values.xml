@@ -13,10 +13,11 @@
 <string name="offline_opt_in_message">বিজ্ঞাপনদাতাৰ ছাইটৰ এটা লিংকৰ সৈতে আমি আপোনালৈ এটা জাননী পঠিয়াম।</string>
 <string name="offline_opt_in_title">আপুনি পুনৰাই অনলাইন হ’লে বিজ্ঞাপন খোলে।</string>
 <string name="s1">ছবি ছেভ কৰক</string>
-<string name="s2">বিজ্ঞাপনক চিত্ৰৰ গেলাৰীত ছবি সঞ্চয় কৰিবলৈ অনুমতি দিবনে?</string>
+<string name="s2">বিজ্ঞাপনক চিত্ৰৰ গেলাৰীত ছবি ষ্ট’ৰ কৰিবলৈ অনুমতি দিবনে?</string>
 <string name="s3">স্বীকাৰ কৰক</string>
 <string name="s4">প্ৰত্যাখ্যান কৰক</string>
 <string name="s5">কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰক</string>
 <string name="s6">বিজ্ঞাপনক কোনো কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰিবলৈ অনুমতি দিবনে?</string>
 <string name="s7">পৰীক্ষণ বিজ্ঞাপন</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

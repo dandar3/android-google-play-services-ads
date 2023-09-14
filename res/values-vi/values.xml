@@ -19,4 +19,5 @@
 <string name="s5">Tạo sự kiện lịch</string>
 <string name="s6">Cho phép Quảng cáo tạo sự kiện lịch?</string>
 <string name="s7">Quảng cáo thử nghiệm</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

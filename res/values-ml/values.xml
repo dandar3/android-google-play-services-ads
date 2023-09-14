@@ -19,4 +19,5 @@
 <string name="s5">കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കുക</string>
 <string name="s6">കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?</string>
 <string name="s7">പരസ്യം പരീക്ഷിക്കുക</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

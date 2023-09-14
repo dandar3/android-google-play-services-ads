@@ -19,4 +19,5 @@
 <string name="s5">Sortu egutegiko gertaera bat</string>
 <string name="s6">Egutegiko gertaera bat sortzea baimendu nahi diozu iragarkiari?</string>
 <string name="s7">Probako iragarkia</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

@@ -19,4 +19,5 @@
 <string name="s5">Жылнаама окуясын түзүү</string>
 <string name="s6">Жарнамада жылнаама окуясы түзүлсүнбү?</string>
 <string name="s7">Жарнаманы сынап көрүңүз</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

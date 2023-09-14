@@ -19,4 +19,5 @@
 <string name="s5">Naptáresemény létrehozása</string>
 <string name="s6">Engedélyezi a hirdetés számára naptáresemény létrehozását?</string>
 <string name="s7">Teszthirdetés</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

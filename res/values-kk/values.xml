@@ -19,4 +19,5 @@
 <string name="s5">Күнтізбе оқиғасын жасау</string>
 <string name="s6">Жарнамаға күнтізбе оқиғасын жасауға рұқсат берілсін бе?</string>
 <string name="s7">Сынақ жарнама</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

@@ -19,4 +19,5 @@
 <string name="s5">Skapa kalenderhändelse</string>
 <string name="s6">Tillåter du att annonsen skapar en kalenderhändelse?</string>
 <string name="s7">Testannons</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

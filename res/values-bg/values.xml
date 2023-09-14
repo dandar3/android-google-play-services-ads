@@ -19,4 +19,5 @@
 <string name="s5">Създаване на събитие в календара</string>
 <string name="s6">Да се разреши ли на рекламата да създаде събитие в календара?</string>
 <string name="s7">Тестова реклама</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

@@ -19,4 +19,5 @@
 <string name="s5">Crear evento do calendario</string>
 <string name="s6">Queres permitir que o anuncio cree un evento do calendario?</string>
 <string name="s7">Probar anuncio</string>
+<string name="watermark_label_prefix">AdMob: </string>
 </resources>

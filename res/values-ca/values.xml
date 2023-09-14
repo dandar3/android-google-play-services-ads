@@ -19,4 +19,5 @@
 <string name="s5">Crea un esdeveniment de calendari</string>
 <string name="s6">Vols permetre que l\'anunci creï un esdeveniment de calendari?</string>
 <string name="s7">Anunci de prova</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

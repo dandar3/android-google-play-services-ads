@@ -17,8 +17,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.google.android.gms.ads.impl" 
-    android:versionCode="2150"
-    android:versionName="21.5.0">
+    android:versionCode="2200"
+    android:versionName="22.0.0">
 
     <uses-sdk
         android:minSdkVersion="19"

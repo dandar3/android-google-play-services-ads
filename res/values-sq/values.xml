@@ -19,4 +19,5 @@
 <string name="s5">Krijo një ngjarje në kalendar</string>
 <string name="s6">Të lejohet që reklama të krijojë një ngjarje në kalendar?</string>
 <string name="s7">Reklamë test</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

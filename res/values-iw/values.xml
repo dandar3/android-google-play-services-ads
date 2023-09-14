@@ -19,4 +19,5 @@
 <string name="s5">צור אירוע ביומן</string>
 <string name="s6">האם לאפשר למודעה ליצור אירוע ביומן?</string>
 <string name="s7">מודעת בדיקה</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

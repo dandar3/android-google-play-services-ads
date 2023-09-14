@@ -19,4 +19,5 @@
 <string name="s5">पात्रोमा कार्यक्रम सिर्जना गर्नुहोस्</string>
 <string name="s6">विज्ञापनलाई पात्रोमा कार्यक्रम सिर्जना गर्न अनुमति दिने हो?</string>
 <string name="s7">परीक्षण विज्ञापन</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

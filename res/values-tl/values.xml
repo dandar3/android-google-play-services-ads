@@ -19,4 +19,5 @@
 <string name="s5">Gumawa ng event sa kalendaryo</string>
 <string name="s6">Pahintulutan ang Ad na gumawa ng event sa kalendaryo?</string>
 <string name="s7">Pansubok na Ad</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

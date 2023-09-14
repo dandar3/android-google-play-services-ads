@@ -19,4 +19,5 @@
 <string name="s5">Créer un événement dans l\'agenda</string>
 <string name="s6">Autoriser l\'annonce à créer un événement dans l\'agenda?</string>
 <string name="s7">Annonce test</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

@@ -19,4 +19,5 @@
 <string name="s5">የቀን መቁጠሪያ ክስተት ፍጠር</string>
 <string name="s6">ማስታወቂያ የቀን መቁጠሪያ ክስተት እንዲፈጥር ይፈቀድለት?</string>
 <string name="s7">የሙከራ ማስታወቂያ</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

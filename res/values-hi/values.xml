@@ -19,4 +19,5 @@
 <string name="s5">कैलेंडर इवेंट बनाएं</string>
 <string name="s6">विज्ञापन को कैलेंडर इवेंट बनाने दें?</string>
 <string name="s7">जाँच विज्ञापन</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

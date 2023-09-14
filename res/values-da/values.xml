@@ -19,4 +19,5 @@
 <string name="s5">Opret kalenderbegivenhed</string>
 <string name="s6">Vil du tillade, at annoncen opretter en kalenderbegivenhed?</string>
 <string name="s7">Testannonce</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

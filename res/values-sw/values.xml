@@ -19,4 +19,5 @@
 <string name="s5">Unda tukio la kalenda</string>
 <string name="s6">Ungependa kuruhusu tangazo liunde tukio la kalenda?</string>
 <string name="s7">Tangazo la Jaribio</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

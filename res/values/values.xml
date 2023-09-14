@@ -31,4 +31,7 @@
     <string name="s5">Create calendar event</string>
     <string name="s6">Allow Ad to create a calendar event?</string>
     <string name="s7">Test Ad</string>
+    <string name="watermark_label_prefix" description="This string appears within a watermark on video ads for debugging. [CHAR_LIMIT=NONE]">
+    "AdMob - "
+  </string>
 </resources>

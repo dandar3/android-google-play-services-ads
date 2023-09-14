@@ -19,4 +19,5 @@
 <string name="s5">Календарийн үйл явдал үүсгэх</string>
 <string name="s6">Зарыг календарийн үйл явдал үүсгэхийг зөвшөөрөх үү?</string>
 <string name="s7">Тест зар</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

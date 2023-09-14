@@ -19,4 +19,5 @@
 <string name="s5">କ୍ୟାଲେଣ୍ଡର୍‌ ଇଭେଣ୍ଟ ତିଆରି କରନ୍ତୁ</string>
 <string name="s6">ଏକ କ୍ୟାଲେଣ୍ଡର୍ ଇଭେଣ୍ଟ ତିଆରି କରିବା ପାଇଁ ବିଜ୍ଞାପନକୁ ଅନୁମତି ଦେବେ କି?</string>
 <string name="s7">ପରୀକ୍ଷାମୂଳକ ବିଜ୍ଞାପନ</string>
+<string name="watermark_label_prefix">AdMob </string>
 </resources>

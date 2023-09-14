@@ -19,4 +19,5 @@
 <string name="s5">Criar evento na agenda</string>
 <string name="s6">Permitir que os anúncios criem um evento na agenda?</string>
 <string name="s7">Anúncio de teste</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

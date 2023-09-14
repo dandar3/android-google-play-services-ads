@@ -19,4 +19,5 @@
 <string name="s5">Create calendar event</string>
 <string name="s6">Allow Ad to create a calendar event?</string>
 <string name="s7">Test Ad</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

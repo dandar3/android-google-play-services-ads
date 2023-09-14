@@ -19,4 +19,5 @@
 <string name="s5">Buat acara kalender</string>
 <string name="s6">Izinkan Iklan membuat acara kalender?</string>
 <string name="s7">Tes Iklan</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

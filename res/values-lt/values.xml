@@ -19,4 +19,5 @@
 <string name="s5">Sukurti kalendoriaus įvykį</string>
 <string name="s6">Leisti skelbimui sukurti kalendoriaus įvykį?</string>
 <string name="s7">Bandomasis skelbimas</string>
+<string name="watermark_label_prefix">„AdMob“ – </string>
 </resources>

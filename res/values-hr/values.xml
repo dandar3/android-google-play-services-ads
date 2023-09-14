@@ -19,4 +19,5 @@
 <string name="s5">Izradi događaj u kalendaru</string>
 <string name="s6">Želite li dopustiti oglasu da izradi događaj u kalendaru?</string>
 <string name="s7">Testni oglas</string>
+<string name="watermark_label_prefix">AdMob – </string>
 </resources>

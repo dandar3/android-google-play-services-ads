@@ -19,4 +19,5 @@
 <string name="s5">ਕੈਲੰਡਰ ਇਵੈਂਟ ਬਣਾਓ</string>
 <string name="s6">ਕੀ ਇਸ਼ਤਿਹਾਰ ਨੂੰ ਇੱਕ ਕੈਲੰਡਰ ਵਰਤਾਰਾ ਬਣਾਉਣ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ?</string>
 <string name="s7">ਟੈਸਟ ਇਸ਼ਤਿਹਾਰ</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

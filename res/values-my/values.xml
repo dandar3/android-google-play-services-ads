@@ -19,4 +19,5 @@
 <string name="s5">ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းရန်</string>
 <string name="s6">ကြော်ငြာအား ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းခွင့် ပြုပါသလား။</string>
 <string name="s7">စမ်းသပ်ကြော်ငြာ</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>

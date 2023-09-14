@@ -19,4 +19,5 @@
 <string name="s5">Стварыць падзею календара</string>
 <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
 <string name="s7">Тэставая рэклама</string>
+<string name="watermark_label_prefix">AdMob - </string>
 </resources>
